@@ -1,0 +1,886 @@
+60614939	{'title': '1c:enterprise programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2994340	{'title': 'a#', 'year': '2004', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+60383	{'title': 'a-0 system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+890931	{'title': 'a+', 'year': '1988', 'paradigm(s)': ['Array'], 'typing': ['dynamic', 'strong'], 'influenced': [890956], 'influenced by': [1451]}
+425819	{'title': 'a++', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+271832	{'title': 'abap/4', 'year': '1983', 'paradigm(s)': ['Object-oriented', 'structured', 'imperative'], 'typing': ['static', 'strong', 'safe', 'nominative'], 'influenced': [], 'influenced by': [39809523, 25432026, 6799, 25432026, 29004, 25432026]}
+147585	{'title': 'abc', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'imperative', 'procedural', 'structured'], 'typing': ['strong', 'polymorphic'], 'influenced': [23862], 'influenced by': [916963, 692880]}
+60450	{'title': 'abc algol', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+928669	{'title': 'acc (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+85065	{'title': 'accent (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9216093	{'title': 'distributed application specification language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1273369	{'title': 'action!', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+519691	{'title': 'actionscript', 'year': '1998', 'paradigm(s)': ['Multi-paradigm', 'object-oriented', 'prototype-based', 'functional', 'imperative', 'scripting'], 'typing': ['strong', 'static'], 'influenced': [5404706], 'influenced by': [9845, 15881]}
+26849115	{'title': 'actor (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1242	{'title': 'ada', 'year': 'February\xa01980', 'paradigm(s)': ['Multi-paradigm'], 'typing': ['static', 'strong', 'safe', 'nominative'], 'influenced': [72038, 6776794, 9838, 15881, 45413679, 36619168, 33862363, 1545014, 25768, 36346048, 36619168, 11665200, 43410], 'influenced by': [692880, 23773, 72038, 28319, 24102707, 15881, 9838]}
+11517646	{'title': 'adenine (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+32996364	{'title': 'agda (theorem prover)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+50687330	{'title': 'agilent vee', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+933477	{'title': 'agora (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+31460418	{'title': 'aimms', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+948551	{'title': 'aldor', 'year': '1990', 'paradigm(s)': ['Multi-paradigm', 'object-oriented', 'functional', 'imperative', 'dependent typed', 'logic'], 'typing': [], 'influenced': [], 'influenced by': [2994338, 23773, 27404990]}
+1935217	{'title': 'alef', 'year': '1992', 'paradigm(s)': ['compiled', 'concurrent', 'structured'], 'typing': ['static', 'strong'], 'influenced': [236298, 29414838, 25039021], 'influenced by': [6021, 25051106]}
+11868019	{'title': 'alf', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'logic', 'functional'], 'typing': [], 'influenced': [], 'influenced by': []}
+944870	{'title': 'algol 58', 'year': '1958', 'paradigm(s)': ['procedural', 'imperative', 'structured'], 'typing': [], 'influenced': [15986053], 'influenced by': [10942, 65944]}
+692878	{'title': 'algol 60', 'year': '1960', 'paradigm(s)': ['procedural', 'imperative', 'structured'], 'typing': [], 'influenced': [29513, 31613960, 23773, 1242, 6021], 'influenced by': [944870]}
+692880	{'title': 'algol 68', 'year': 'Final Report: 1968', 'paradigm(s)': ['multi-paradigm', 'concurrent', 'imperative'], 'typing': ['static', 'strong', 'safe', 'structural'], 'influenced': [6021, 72038, 92839, 17213, 4547, 29047, 25417347, 23862, 36346048, 20340, 11484588], 'influenced by': [692878, 949010]}
+211058	{'title': 'algol w', 'year': '1966', 'paradigm(s)': [], 'typing': [], 'influenced': [23773, 24102707], 'influenced by': [692878]}
+30877972	{'title': 'alice', 'year': '2000', 'paradigm(s)': ['Multi-paradigm', 'imperative', 'functional', 'distributed', 'concurrent'], 'typing': ['strong', 'static', 'inferred'], 'influenced': [], 'influenced by': [20607, 256916]}
+933674	{'title': 'alma-0', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'constraint', 'imperative', 'logic'], 'typing': ['static'], 'influenced': [], 'influenced by': []}
+12036551	{'title': 'ambienttalk', 'year': '2006', 'paradigm(s)': ['object-oriented', 'prototype-based', 'Concurrent', 'Event-driven', 'Reflective'], 'typing': ['dynamic', 'strong'], 'influenced': [26574070], 'influenced by': [28319, 60265, 28119, 1377046, 11044709]}
+114313	{'title': 'amiga e', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2957	{'title': 'amos', 'year': '1990', 'paradigm(s)': ['Imperative', 'Procedural'], 'typing': [], 'influenced': [], 'influenced by': [1366035]}
+1076270	{'title': 'ampl', 'year': '1985', 'paradigm(s)': ['Multi-paradigm', 'declarative', 'imperative'], 'typing': [], 'influenced': [40889417], 'influenced by': [1456, 6021]}
+39538319	{'title': 'angelscript', 'year': '2003', 'paradigm(s)': ['Multi-paradigm', 'scripting', 'imperative', 'procedural', 'object-oriented'], 'typing': ['static', 'strong'], 'influenced': [], 'influenced by': [72038]}
+49183653	{'title': 'apex (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1451	{'title': 'apl', 'year': 'November\xa027, 1966', 'paradigm(s)': ['Array', 'functional', 'structured', 'modular'], 'typing': ['dynamic'], 'influenced': [890931, 899253, 73227, 890956, 18305664, 20412, 21571, 5005125, 919313, 24641580, 40205956], 'influenced by': [277184]}
+43500036	{'title': 'app inventor for android (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+88392	{'title': 'applescript', 'year': '1993', 'paradigm(s)': ['Natural language programming', 'Scripting'], 'typing': ['weak', 'dynamic'], 'influenced': [], 'influenced by': [56284859, 78136]}
+3673047	{'title': 'apt (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+188190	{'title': 'arc', 'year': '29\xa0January 2008', 'paradigm(s)': [], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [18016, 28119]}
+1858505	{'title': 'arexx', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+27580389	{'title': 'argus (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1368	{'title': 'assembly language', 'year': '1949', 'paradigm(s)': ['Imperative', 'unstructured'], 'typing': [], 'influenced': [], 'influenced by': []}
+1485612	{'title': 'autohotkey', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+51458	{'title': 'autolisp', 'year': 'January\xa01986', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [18016]}
+2211949	{'title': 'averest', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1456	{'title': 'awk', 'year': '1977', 'paradigm(s)': ['Scripting', 'procedural', 'data-driven', '[1]'], 'typing': [], 'influenced': [39880682, 1076270, 23939, 95823, 46150], 'influenced by': [6021, 29515, 92839]}
+22433033	{'title': 'axum', 'year': 'May 8, 2009', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2883	{'title': 'active server pages (asp)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4475	{'title': 'b', 'year': '1969', 'paradigm(s)': [], 'typing': ['word'], 'influenced': [6021], 'influenced by': [4052, 23708]}
+22848897	{'title': 'babbage', 'year': 'around 1971', 'paradigm(s)': ['procedural', 'structured', 'High-level assembler'], 'typing': [], 'influenced': [], 'influenced by': [4052]}
+57629994	{'title': 'ballerina', 'year': '2017', 'paradigm(s)': [], 'typing': ['structural', 'strong', 'static', 'inferred'], 'influenced': [], 'influenced by': [15881, 12572874, 25039021, 29414838, 2356196]}
+4547	{'title': 'bash', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4015	{'title': 'basic', 'year': 'May\xa01, 1964', 'paradigm(s)': ['Non-structured', 'procedural', 'object-oriented'], 'typing': [], 'influenced': [197700, 6097382, 208996, 144766, 2281448, 1485612], 'influenced by': [692878, 11168, 140643]}
+646359	{'title': 'bc', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4052	{'title': 'bcpl', 'year': '1967', 'paradigm(s)': ['procedural', 'imperative', 'structured'], 'typing': ['word'], 'influenced': [4475, 6021, 25039021], 'influenced by': [828614]}
+1565435	{'title': 'beanshell', 'year': '1999', 'paradigm(s)': ['Object-oriented', 'scripting'], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [15881, 9845, 23939]}
+15264030	{'title': 'batch file', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+21119400	{'title': 'bertrand (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+135868	{'title': 'beta', 'year': 0, 'paradigm(s)': ['Object-oriented'], 'typing': [], 'influenced': [], 'influenced by': [29513]}
+24740516	{'title': 'bliss (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+44494473	{'title': 'blockly', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+436718	{'title': 'bloop and floop', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1147624	{'title': 'boo', 'year': '2003', 'paradigm(s)': ['Object oriented'], 'typing': ['static', 'strong', 'inferred', 'duck'], 'influenced': [25291443, 12655903], 'influenced by': [2356196, 23862]}
+21008097	{'title': 'boomerang', 'year': '2008', 'paradigm(s)': [], 'typing': [], 'influenced': [34211], 'influenced by': [39652]}
+92839	{'title': 'bourne shell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6021	{'title': 'c', 'year': '1972', 'paradigm(s)': ['Imperative', 'procedural', 'structured'], 'typing': ['static', 'weak', 'manifest', 'nominal'], 'influenced': [945831, 1076270, 1456, 95833, 72038, 1422467, 2356196, 39809523, 243881, 25039021, 15881, 9845, 38455554, 236298, 904645, 23939, 24131, 86780, 546083, 23862, 29414838, 36346048, 12655903, 63863, 45413679], 'influenced by': [4475, 4052, 828614, 692880, 1368, 23708, 10942]}
+1422467	{'title': 'c--', 'year': '1997', 'paradigm(s)': ['imperative'], 'typing': ['static', 'weak'], 'influenced': [], 'influenced by': [6021]}
+72038	{'title': 'c++', 'year': '1985', 'paradigm(s)': [], 'typing': ['static', 'nominative', 'partially inferred'], 'influenced': [1242, 2356196, 607497, 6776794, 16561990, 243881, 15881, 46150, 45413679, 25432026, 23939, 24131, 23862, 29414838, 36346048], 'influenced by': [1242, 692880, 6021, 7575, 20607, 29513]}
+1064175	{'title': 'c*', 'year': '1987', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'imperative', 'parallel'], 'typing': ['static', 'weak', 'manifest'], 'influenced': [1064178], 'influenced by': [3172, 2116391]}
+2356196	{'title': 'c#', 'year': '2000', 'paradigm(s)': ['Structured', 'imperative', 'object-oriented', 'event-driven', 'task-driven', 'functional', 'generic', 'reflective', 'concurrent'], 'typing': ['static', 'dynamic', '[3]', 'strong', 'safe', 'nominative', 'partially inferred'], 'influenced': [6776794, 16561990, 48972626, 243881, 419765, 33033735, 239964, 42257880, 15881, 41819039, 30883042, 4249746, 29414838, 42946389, 12655903, 8157205], 'influenced by': [72038, 1042779, 9838, 239964, 27404990, 14801, 419765, 1962467, 15881, 20607, 241545, 630175, 29414838, 6097382]}
+13281075	{'title': 'c/al', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2242790	{'title': 'caché objectscript', 'year': '1997', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [19723]}
+95839	{'title': 'c shell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2362118	{'title': 'caml', 'year': '1985', 'paradigm(s)': ['multi-paradigm', 'functional', 'imperative', 'object-oriented', 'OCaml'], 'typing': ['strong', 'static', 'inferred'], 'influenced': [239964], 'influenced by': [20607]}
+6528823	{'title': 'cayenne (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5763798	{'title': 'cduce', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+527946	{'title': 'cecil (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+52437476	{'title': 'cesil', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+52350190	{'title': 'céu (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+31483631	{'title': 'ceylon', 'year': '2011', 'paradigm(s)': ['Object-oriented'], 'typing': ['static, strong, safe'], 'influenced': [], 'influenced by': [15881, 3254510, 28319, 20607, 18016]}
+1109117	{'title': 'cfengine', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+390212	{'title': 'cg (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+31643142	{'title': 'ch c/c++ interpreter', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6776794	{'title': 'chapel', 'year': '2009', 'paradigm(s)': ['Object-oriented', 'Partitioned global address space', 'Parallel programming'], 'typing': ['static', 'inferred'], 'influenced': [], 'influenced by': [1242, 2356196, 6021, 11168, 72038, 15881, 1081482, 890761, 25458359, 7922315]}
+1364508	{'title': 'charity', 'year': '1992', 'paradigm(s)': ['pure functional'], 'typing': [], 'influenced': [], 'influenced by': []}
+31955729	{'title': 'charm (language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+765313	{'title': 'chill', 'year': '1980', 'paradigm(s)': ['procedural'], 'typing': ['static', 'strong'], 'influenced': [], 'influenced by': [6799, 391472]}
+1119698	{'title': 'chip-8', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+18718048	{'title': 'pp, chomski virtual machine', 'year': '2007', 'paradigm(s)': ['scripting language'], 'typing': [], 'influenced': [], 'influenced by': [27163, 907]}
+478750	{'title': 'chuck', 'year': '2003', 'paradigm(s)': ['Multi-paradigm'], 'typing': ['strong'], 'influenced': [], 'influenced by': []}
+945803	{'title': 'cilk', 'year': '1994', 'paradigm(s)': ['imperative', 'procedural', 'structured', 'parallel'], 'typing': ['static', 'weak', 'manifest'], 'influenced': [381842], 'influenced by': [6021]}
+49208585	{'title': 'citrine', 'year': '2014', 'paradigm(s)': ['Object-oriented', 'prototype-based'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [28319, 60265]}
+44021754	{'title': 'as/400 control language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+930956	{'title': 'claire', 'year': '1994', 'paradigm(s)': ['multi-paradigm', 'functional', 'object-oriented', 'class-based', 'rule processing', 'reflective'], 'typing': ['strong', 'static', 'dynamic'], 'influenced': [], 'influenced by': [28319, 916963, 475829, 18016, 20607, 6021]}
+508614	{'title': 'clarion', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+161878	{'title': 'clean', 'year': '1987', 'paradigm(s)': ['functional'], 'typing': ['strong', 'static', 'dynamic'], 'influenced': [27404990, 39035048], 'influenced by': [93267, 27404990]}
+246367	{'title': 'clipper', 'year': '1985', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7755022	{'title': 'clips (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+391542	{'title': 'clist', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+16561990	{'title': 'clojure', 'year': '2007', 'paradigm(s)': ['multi-paradigm', 'agent-oriented', '[1]', 'concurrent', '[2]', '[3]', 'functional', '[4]', 'logic', '[5]', 'macro', '[6]', 'pipeline', '[7]'], 'typing': ['dynamic', 'strong'], 'influenced': [38202780, 43723435, 41671035], 'influenced by': [2356196, 72038, 6068, 9646, 27404990, 15881, 51022500, 20607, 23485, 3350021, 25768, 28119]}
+7575	{'title': 'clu', 'year': '1975', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'procedural'], 'typing': ['strong'], 'influenced': [1242, 27580389, 72038, 46150, 23862, 25768, 28763, 42946389], 'influenced by': [692878, 18016, 29513]}
+1181779	{'title': 'cms-2', 'year': '1968', 'paradigm(s)': ['Imperative'], 'typing': [], 'influenced': [], 'influenced by': [11168, 224748, 23708]}
+6799	{'title': 'cobol', 'year': '1959', 'paradigm(s)': ['Procedural', 'imperative', 'object-oriented'], 'typing': ['weak', 'static'], 'influenced': [50155661, 1205107, 23708, 350323, 25432026], 'influenced by': [6219357, 72038, 4292196, 9838, 35783688, 82760, 28319]}
+50155661	{'title': 'cobolscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13862555	{'title': 'cobra', 'year': '2006', 'paradigm(s)': ['Multi-paradigm', 'object-oriented'], 'typing': ['strong', 'static', 'dynamic', 'inferred'], 'influenced': [], 'influenced by': [23862, 9838, 2356196, 39809523]}
+27403236	{'title': 'coffeescript', 'year': '13\xa0December 2009', 'paradigm(s)': ['Multi-paradigm', 'prototype-based', 'functional', 'imperative', 'scripting'], 'typing': [], 'influenced': [17731], 'influenced by': [27404990, 9845, 23939, 25432026, 23862, 25768, 326530]}
+36436304	{'title': 'coldfusion', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+197700	{'title': 'comal', 'year': '1973', 'paradigm(s)': ['structured'], 'typing': ['strong'], 'influenced': [], 'influenced by': [4015, 23773]}
+31613960	{'title': 'combined programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1012894	{'title': 'comit', 'year': '1957', 'paradigm(s)': [], 'typing': [], 'influenced': [29515], 'influenced by': []}
+46004	{'title': 'common intermediate language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6068	{'title': 'common lisp', 'year': '1984', 'paradigm(s)': ['Multi-paradigm', 'procedural', 'functional', 'object-oriented', 'meta', 'reflective', 'generic'], 'typing': ['dynamic', 'strong'], 'influenced': [16561990, 8741, 10392, 4158686, 6976849, 2116391, 37270938, 38455554, 19946240, 376707, 6693612, 1625207], 'influenced by': [18016, 47775, 47774, 28119, 353464]}
+492451	{'title': 'compass', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+357599	{'title': 'component pascal', 'year': '1997', 'paradigm(s)': ['imperative', 'structured', 'modular', 'object-oriented'], 'typing': ['strong', 'static'], 'influenced': [], 'influenced by': [449019]}
+1753362	{'title': 'constraint handling rules', 'year': '1991', 'paradigm(s)': ['Constraint logic programming'], 'typing': [], 'influenced': [], 'influenced by': [23485]}
+4292196	{'title': 'comtran', 'year': '1957', 'paradigm(s)': [], 'typing': [], 'influenced': [6799], 'influenced by': [82760]}
+14782123	{'title': 'cool', 'year': '1996', 'paradigm(s)': ['Object-oriented'], 'typing': ['static', 'strong', 'manifest'], 'influenced': [], 'influenced by': [15881, 20607, 23773, 28763]}
+581974	{'title': 'coq (software)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7262	{'title': 'coral 66', 'year': '1964', 'paradigm(s)': ['procedural', 'imperative', 'structured'], 'typing': [], 'influenced': [], 'influenced by': [1453, 224748]}
+4891630	{'title': 'corvision', 'year': '1986', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [227989]}
+94451	{'title': 'cowsel', 'year': '1964', 'paradigm(s)': [], 'typing': [], 'influenced': [981616], 'influenced by': [31613960, 18016]}
+828614	{'title': 'cpl', 'year': '1963', 'paradigm(s)': ['Multi-paradigm', 'procedural', 'imperative', 'structured', 'functional'], 'typing': [], 'influenced': [4052, 981616], 'influenced by': [692878]}
+20921449	{'title': 'cryptol', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+48972626	{'title': 'crystal', 'year': 'June\xa018, 2014', 'paradigm(s)': ['Multi-paradigm', 'object-oriented', 'concurrent'], 'typing': ['static', 'inferred', 'structural', 'duck'], 'influenced': [], 'influenced by': [25768, 6021, 29414838, 25039021, 2356196, 23862]}
+149998	{'title': 'csound', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+247370	{'title': 'communicating sequential processes', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+51797637	{'title': 'cuneiform', 'year': '2013', 'paradigm(s)': ['functional', 'scientific workflow'], 'typing': [], 'influenced': [], 'influenced by': [42946796]}
+42537	{'title': 'curl', 'year': '1998', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'markup'], 'typing': ['strong'], 'influenced': [], 'influenced by': [13191, 9845, 18016]}
+302187	{'title': 'curry', 'year': 0, 'paradigm(s)': ['functional', 'logic'], 'typing': ['static', 'strong', 'inferred'], 'influenced': [], 'influenced by': [27404990]}
+32669131	{'title': 'cybil (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7645	{'title': 'cyclone', 'year': '2002', 'paradigm(s)': [], 'typing': [], 'influenced': [29414838], 'influenced by': [6021]}
+18384111	{'title': 'cython', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+243881	{'title': 'd programming language', 'year': 'December\xa08, 2001', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'object-oriented'], 'typing': ['inferred', 'static', 'strong'], 'influenced': [25291443, 10965409, 33850384, 42946389, 12655903], 'influenced by': [6021, 72038, 2356196, 9838, 15881, 23862]}
+457504	{'title': "datapoint's advanced systems language", 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+33033735	{'title': 'dart', 'year': 'October\xa010, 2011', 'paradigm(s)': ['Multi-paradigm', 'scripting', 'object-oriented', 'class-based', 'imperative', 'reflective', 'functional', 'garbage-collected', '[1]'], 'typing': ['optional', 'static', '[4]'], 'influenced': [], 'influenced by': [2356196, 9646, 9845, 28319, 1569550]}
+12794721	{'title': 'darwin', 'year': '1991', 'paradigm(s)': ['imperative', 'structured', 'object-oriented'], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [79099]}
+742526	{'title': 'dataflex', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+968357	{'title': 'datalog', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2214310	{'title': 'datatrieve', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+209537	{'title': 'dbase', 'year': '1979', 'paradigm(s)': ['Imperative', 'Declarative'], 'typing': [], 'influenced': [246367, 60616561, 7419372, 2539467], 'influenced by': []}
+562904	{'title': 'dc (computer program)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+532369	{'title': 'digital command language', 'year': 0, 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [4895712], 'influenced by': []}
+1320860	{'title': 'dink smallwood', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+598142	{'title': 'dibol', 'year': '1970', 'paradigm(s)': ['procedural', 'imperative', 'structured'], 'typing': ['static'], 'influenced': [], 'influenced by': [4015, 11168, 6799]}
+37830261	{'title': 'dog (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+507348	{'title': 'draco', 'year': 'early 1980s, discontinued around 1990', 'paradigm(s)': ['imperative', 'procedural', 'structured'], 'typing': ['static', 'strong', 'manifest'], 'influenced': [], 'influenced by': [692880, 23773, 6021]}
+9912359	{'title': 'drakon', 'year': '1996', 'paradigm(s)': ['visual'], 'typing': [], 'influenced': [], 'influenced by': []}
+8741	{'title': 'dylan', 'year': '1992', 'paradigm(s)': ['multi-paradigm', 'functional', 'object-oriented'], 'typing': [], 'influenced': [524247, 23862, 25768], 'influenced by': [191414, 1453, 28119, 4158686]}
+26064582	{'title': 'dynamo (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+37774833	{'title': 'data analysis expressions', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1377046	{'title': 'e', 'year': '1997', 'paradigm(s)': ['Multi-paradigm', 'object-oriented', 'message passing'], 'typing': ['strong', 'dynamic'], 'influenced': [], 'influenced by': [502786, 15881]}
+1968693	{'title': 'ease', 'year': '1991', 'paradigm(s)': [], 'typing': ['strong'], 'influenced': [], 'influenced by': [22660]}
+23708	{'title': 'pl/i', 'year': '1964', 'paradigm(s)': ['Procedural', 'imperative', 'structured'], 'typing': [], 'influenced': [1181779, 827334, 4475, 37973279, 44021754], 'influenced by': [6799, 11168, 1453]}
+21771340	{'title': 'easytrieve', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+48971282	{'title': 'ec', 'year': '2004', 'paradigm(s)': ['Multi-paradigm', 'procedural', 'object-oriented', 'generic'], 'typing': ['static', 'nominative', 'partially inferred'], 'influenced': [], 'influenced by': [6021, 72038, 23862]}
+188515	{'title': 'ecmascript', 'year': '1997', 'paradigm(s)': ['Multi-paradigm', 'prototype-based', 'functional', 'imperative'], 'typing': ['weak', 'dynamic'], 'influenced': [], 'influenced by': [60265, 78136, 1456, 6021, 27403236, 23939, 23862, 15881, 28119]}
+953419	{'title': 'edinburgh imp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1205107	{'title': 'egl (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9838	{'title': 'eiffel', 'year': '1986', 'paradigm(s)': ['Object-oriented', 'Class-based', 'Generic', 'Concurrent'], 'typing': ['static'], 'influenced': [1242, 2356196, 243881, 15881, 3350021, 25768, 28763, 3254510], 'influenced by': [1242, 29513, 34521]}
+1179492	{'title': 'elan', 'year': '1974', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [692880]}
+38202780	{'title': 'elixir', 'year': '2011', 'paradigm(s)': ['multi-paradigm', 'functional', 'concurrent', 'distributed', 'process-oriented'], 'typing': ['dynamic', 'strong', 'duck'], 'influenced': [41671035], 'influenced by': [16561990, 9646, 25768]}
+37552825	{'title': 'elm', 'year': 'March\xa030, 2012', 'paradigm(s)': ['Functional'], 'typing': ['static', 'strong', 'inferred'], 'influenced': [53428852, 50978621], 'influenced by': [27404990, 100337, 39652, 239964]}
+10392	{'title': 'emacs lisp', 'year': '1985', 'paradigm(s)': ['Functional', 'meta', 'reflective'], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [6068, 47774]}
+32529580	{'title': 'emerald', 'year': '1980s', 'paradigm(s)': ['object-oriented'], 'typing': ['strong', 'static'], 'influenced': [15881, 2049655], 'influenced by': [23773, 29513, 28319]}
+1933143	{'title': 'epigram', 'year': '2004', 'paradigm(s)': ['Functional'], 'typing': ['strong', 'static', 'dependent'], 'influenced': [4426773, 39035048], 'influenced by': [33079424]}
+42016798	{'title': 'easy programming language', 'year': '2004', 'paradigm(s)': ['Multi-paradigm', 'compiled', 'imperative', 'procedural', 'object-oriented', 'functional'], 'typing': [], 'influenced': [], 'influenced by': []}
+8664562	{'title': 'eltron programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9646	{'title': 'erlang', 'year': '1986', 'paradigm(s)': [], 'typing': ['dynamic', 'strong'], 'influenced': [38053070, 16561990, 25432026, 33033735, 38202780, 239964, 32976878, 256916, 20217814, 29414838, 3254510], 'influenced by': [18016, 21866469, 23485, 28319]}
+36811567	{'title': 'es (unix shell)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+15127666	{'title': 'escher', 'year': 'mid-1990s', 'paradigm(s)': ['declarative', 'functional', 'logic'], 'typing': ['static', 'manifest'], 'influenced': [], 'influenced by': [27828947]}
+949062	{'title': 'executive systems problem oriented language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1285078	{'title': 'esterel', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4052771	{'title': 'etoys', 'year': '1996', 'paradigm(s)': ['object-oriented', 'prototype-based', 'educational'], 'typing': ['dynamic'], 'influenced': [1474975, 9236158], 'influenced by': [18334, 28319, 13567, 746828, 6983799]}
+827385	{'title': 'euclid', 'year': '1970s', 'paradigm(s)': ['multi-paradigm', 'structured', 'imperative', 'functional'], 'typing': ['strong', 'static'], 'influenced': [19962, 23153417, 31105], 'influenced by': [23773]}
+908540	{'title': 'euler', 'year': 0, 'paradigm(s)': ['procedural', 'imperative', 'structured'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [692878]}
+9647	{'title': 'euphoria', 'year': '1993', 'paradigm(s)': ['Imperative, procedural'], 'typing': [], 'influenced': [], 'influenced by': []}
+7416368	{'title': 'euslisp robot programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9424740	{'title': 'cms exec', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9424829	{'title': 'exec 2', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4849249	{'title': 'executable uml', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+39845825	{'title': 'ezhil', 'year': '2007', 'paradigm(s)': ['interpreted', 'imperative', 'structured'], 'typing': ['strong', 'dynamic'], 'influenced': [], 'influenced by': [18334, 4015, 23862]}
+1283488	{'title': 'f language', 'year': 0, 'paradigm(s)': ['procedural', 'modular'], 'typing': ['static', 'manifest'], 'influenced': [], 'influenced by': [5976852]}
+239964	{'title': 'f#', 'year': '2005', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'object-oriented', 'metaprogramming', 'reflective', 'concurrent'], 'typing': ['static', 'strong', 'inferred'], 'influenced': [2356196, 37552825, 38420593, 17731], 'influenced by': [2356196, 9646, 27404990, 20607, 39652, 23862, 3254510]}
+38420593	{'title': 'f*', 'year': 0, 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'formal verification'], 'typing': ['static', 'strong', 'inferred', 'dependent types', 'formal verification'], 'influenced': [], 'influenced by': [239964, 39652, 100337, 57798059]}
+891398	{'title': 'factor', 'year': '2003', 'paradigm(s)': ['multi-paradigm', 'functional', 'concatenative', 'stack-oriented'], 'typing': ['strong', 'dynamic'], 'influenced': [], 'influenced by': [696166, 11012, 18016, 60265]}
+18969637	{'title': 'fantom', 'year': '2005', 'paradigm(s)': ['multi-paradigm'], 'typing': ['static', 'dynamic'], 'influenced': [], 'influenced by': [2356196, 15881, 3254510, 25768, 9646]}
+4532356	{'title': 'faust', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+934157	{'title': 'ffp (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3236625	{'title': 'fjölnir', 'year': '1980s', 'paradigm(s)': ['object-oriented'], 'typing': [], 'influenced': [], 'influenced by': []}
+2857297	{'title': 'fl', 'year': '1989', 'paradigm(s)': ['function-level', 'functional'], 'typing': ['dynamic'], 'influenced': [73227], 'influenced by': [899253]}
+1332640	{'title': 'flavors (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+26480678	{'title': 'flex (language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+82760	{'title': 'flow-matic', 'year': '1955', 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [202110, 6219357, 6799], 'influenced by': [60393]}
+1170592	{'title': 'focal', 'year': '1968', 'paradigm(s)': [], 'typing': [], 'influenced': [617705], 'influenced by': [140643]}
+867853	{'title': 'focus', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+602746	{'title': 'foil (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+55755598	{'title': 'formac (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+343386	{'title': 'formula language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+11012	{'title': 'forth', 'year': '1970', 'paradigm(s)': ['Procedural', 'stack-oriented', 'reflective', 'concatenative'], 'typing': [], 'influenced': [891398, 512681, 41325783], 'influenced by': [332693, 18016, 1451]}
+11168	{'title': 'fortran', 'year': '1957', 'paradigm(s)': ['multi-paradigm', 'structured', 'imperative', 'procedural', 'object-oriented', 'generic'], 'typing': ['strong', 'static', 'manifest'], 'influenced': [944870, 4015, 6021, 6776794, 1181779, 1822171, 23708, 27174347, 19723, 512587, 390257], 'influenced by': [6616312]}
+1822171	{'title': 'fortress', 'year': '2006', 'paradigm(s)': [], 'typing': ['static'], 'influenced': [], 'influenced by': [11168, 3254510, 27404990]}
+899253	{'title': 'fp', 'year': '1977', 'paradigm(s)': ['function-level'], 'typing': [], 'influenced': [2857297, 27404990, 73227], 'influenced by': [1451]}
+2188401	{'title': 'franz lisp', 'year': '1980', 'paradigm(s)': [], 'typing': ['dynamic', 'strong'], 'influenced': [4993482], 'influenced by': [18016, 47774, 6068]}
+899874	{'title': 'f-script', 'year': 'June\xa028, 2009', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'array'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [28319, 1451]}
+41280138	{'title': 'game maker language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1131159	{'title': 'gamemonkey script', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1438314	{'title': 'gams', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+34216878	{'title': 'gap computer algebra system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1027403	{'title': 'g-code', 'year': '1950s (first edition)', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+54139488	{'title': 'gdscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25291443	{'title': 'genie', 'year': '2008', 'paradigm(s)': ['multi-paradigm', 'imperative', 'structured', 'object-oriented'], 'typing': ['static', 'strong'], 'influenced': [], 'influenced by': [23862, 1147624, 243881, 630175]}
+4410977	{'title': 'geometric description language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+36133392	{'title': 'george (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+40218899	{'title': 'glsl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+30196706	{'title': 'gnu e', 'year': '1991', 'paradigm(s)': ['object-oriented'], 'typing': ['strong'], 'influenced': [], 'influenced by': [72038]}
+25039021	{'title': 'go', 'year': 'November\xa010, 2009', 'paradigm(s)': ['Multi-paradigm', 'concurrent', 'functional', '[1]', 'imperative', 'object-oriented', '[2]', '[3]'], 'typing': ['inferred', 'static', 'strong', 'structural', '[6]', '[7]'], 'influenced': [48972626], 'influenced by': [1935217, 1451, 4052, 6021, 247370, 236298, 20824, 25051106, 22496, 22660, 23773, 28319]}
+25045328	{'title': 'go!', 'year': '2003', 'paradigm(s)': ['Multi-paradigm', 'concurrent', 'logic', 'functional', 'imperative', 'object-based'], 'typing': ['strong'], 'influenced': [], 'influenced by': [23485]}
+4993415	{'title': 'game oriented assembly lisp', 'year': '3\xa0December 2001', 'paradigm(s)': [], 'typing': ['dynamic', 'latent', 'strong'], 'influenced': [], 'influenced by': [18016, 28119]}
+936719	{'title': 'gödel', 'year': '1992', 'paradigm(s)': ['declarative', 'logic'], 'typing': ['strong'], 'influenced': [], 'influenced by': []}
+47051765	{'title': 'golo', 'year': '2012', 'paradigm(s)': [], 'typing': ['dynamic', 'weak'], 'influenced': [], 'influenced by': []}
+55579	{'title': 'mad', 'year': '1959', 'paradigm(s)': ['Imperative'], 'typing': [], 'influenced': [], 'influenced by': [944870, 944870]}
+31285354	{'title': 'apps script', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+29539307	{'title': 'gosu', 'year': 0, 'paradigm(s)': [], 'typing': ['static'], 'influenced': [41819039], 'influenced by': [15881, 2356196]}
+92577	{'title': 'ibm 1620', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+577078	{'title': 'gpss', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+942857	{'title': 'dxc technology', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+144766	{'title': 'grass (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+30776767	{'title': 'grasshopper', 'year': 'September\xa02007', 'paradigm(s)': ['visual programming'], 'typing': [], 'influenced': [], 'influenced by': []}
+57417762	{'title': 'groovy (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+42257880	{'title': 'hack', 'year': '2014', 'paradigm(s)': [], 'typing': ['static', 'dynamic', 'weak', 'gradual'], 'influenced': [], 'influenced by': [24131, 39652, 15881, 2356196, 3254510, 27404990]}
+52222071	{'title': 'haggis', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+267538	{'title': 'hal/s', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+40586943	{'title': 'halide', 'year': '2012', 'paradigm(s)': ['functional', 'parallel'], 'typing': ['static'], 'influenced': [], 'influenced by': []}
+29820733	{'title': 'hamilton c shell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+60616561	{'title': 'harbour (software)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+49458594	{'title': 'hartmann pipeline', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+27404990	{'title': 'haskell', 'year': '1990', 'paradigm(s)': ['Functional'], 'typing': ['inferred', 'static', 'strong'], 'influenced': [4426773, 50462918, 5481447, 23708477, 2356196, 13706337, 25432026, 6528823, 161878, 16561990, 27403236, 302187, 37552825, 1933143, 25432026, 15127666, 239964, 42257880, 39035048, 13675387, 15881, 7955681, 17731, 19726, 17643059, 25432026, 60230260, 23862, 1146638, 29414838, 3254510, 42946389, 208996], 'influenced by': [161878, 899253, 9019708, 933188, 15127771, 233385, 17224, 18016, 93267, 20607, 100337, 15127684, 1298198, 28119, 57406]}
+5404706	{'title': 'haxe', 'year': '2005', 'paradigm(s)': ['Multi-paradigm'], 'typing': ['static', 'dynamic', 'nominal'], 'influenced': [], 'influenced by': [519691, 39652, 15881]}
+24136948	{'title': 'hermes (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+723581	{'title': 'high level assembly (hla)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+38945065	{'title': 'high level shader language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+27421416	{'title': 'hollywood', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+46478098	{'title': 'templeos', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13433106	{'title': 'hop', 'year': '2006', 'paradigm(s)': ['multi-paradigm'], 'typing': [], 'influenced': [], 'influenced by': [28119]}
+39338454	{'title': 'hopscotch (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+933188	{'title': 'hope (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1151504	{'title': 'hugo (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+28231807	{'title': 'hume (language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+78136	{'title': 'hypertalk', 'year': '1987', 'paradigm(s)': ['procedural'], 'typing': [], 'influenced': [519691, 88392, 188515, 9845, 493076, 30890362, 9096092, 5235763], 'influenced by': [56284859, 23773]}
+323340	{'title': 'io', 'year': '2002', 'paradigm(s)': ['object-oriented', 'prototype-based'], 'typing': ['dynamic', 'strong'], 'influenced': [20148120], 'influenced by': [28319, 60545, 60265, 46150, 18016, 23862, 4075450]}
+14801	{'title': 'icon', 'year': '1977', 'paradigm(s)': ['multi-paradigm', 'structured'], 'typing': ['dynamic'], 'influenced': [7239022, 23862], 'influenced by': [29515, 1453]}
+40128890	{'title': 'ibm basic assembly language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1205430	{'title': 'ibm hascript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+252830	{'title': 'ibm informix-4gl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+632241	{'title': 'rpgreport program generator', 'year': '1959', 'paradigm(s)': ['Multi-paradigm'], 'typing': ['strong', 'static'], 'influenced': [411454], 'influenced by': [60378, 6135484]}
+8703218	{'title': 'irineu', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+512587	{'title': 'idl (interactive data language)', 'year': '1977', 'paradigm(s)': ['vector-oriented programming'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': []}
+39035048	{'title': 'idris', 'year': '2007', 'paradigm(s)': ['Functional'], 'typing': [], 'influenced': [], 'influenced by': [4426773, 161878, 581974, 1933143, 27404990, 20607, 29414838]}
+40650677	{'title': 'inform (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+73227	{'title': 'j', 'year': '1990', 'paradigm(s)': [], 'typing': ['dynamic'], 'influenced': [381782, 346978], 'influenced by': [1451, 899253, 2857297]}
+419765	{'title': 'visual j#', 'year': '2002', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [15881, 1962467]}
+1962467	{'title': 'visual j++', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5887624	{'title': 'jade (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2410974	{'title': 'jal (compiler)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+50304023	{'title': 'janus', 'year': '1990', 'paradigm(s)': ['concurrent constraint logic'], 'typing': [], 'influenced': [], 'influenced by': []}
+50304039	{'title': 'janus', 'year': '1982, 2007', 'paradigm(s)': ['imperative', 'procedural', 'reversible'], 'typing': [], 'influenced': [], 'influenced by': []}
+3115483	{'title': 'jass', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+15881	{'title': 'java', 'year': 'May\xa023, 1995', 'paradigm(s)': ['Multi-paradigm', 'generic', 'object-oriented', 'class-based', 'imperative', 'reflective'], 'typing': ['static, strong, safe', 'nominative', 'manifest'], 'influenced': [1242, 1565435, 2356196, 6776794, 16561990, 188515, 18969637, 215824, 57417762, 42257880, 42302403, 419765, 41819039, 24131, 23862, 3254510, 36346048, 12655903], 'influenced by': [1242, 72038, 2356196, 9838, 19962, 241545, 22496, 39809523, 31925, 630175]}
+11117691	{'title': 'javafx', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9845	{'title': 'javascript', 'year': 'December\xa04, 1995', 'paradigm(s)': ['Multi-paradigm', 'event-driven', '[1]', 'functional', 'imperative', 'object-oriented', 'prototype-based'], 'typing': ['dynamic', 'duck'], 'influenced': [519691, 44365118, 27403236, 33033735, 840451, 17731, 19176983, 32976878, 28116392, 1146638, 8157205], 'influenced by': [1456, 6021, 78136, 15881, 46150, 23939, 23862, 28119, 60265]}
+391487	{'title': 'job control language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+22203007	{'title': 'jean', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2225745	{'title': 'join java', 'year': '2000', 'paradigm(s)': ['Procedural', 'Reflective'], 'typing': [], 'influenced': [], 'influenced by': [15881]}
+140643	{'title': 'joss', 'year': '1963', 'paradigm(s)': [], 'typing': [], 'influenced': [991259, 1838572, 1170592, 19723], 'influenced by': []}
+502786	{'title': 'joule', 'year': '1996', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'distributed', 'Dataflow'], 'typing': [], 'influenced': [1377046], 'influenced by': [10611640, 1637868]}
+224748	{'title': 'jovial', 'year': '1960', 'paradigm(s)': ['procedural', 'imperative', 'structured'], 'typing': [], 'influenced': [1181779, 7262, 5029025], 'influenced by': [1453, 28005]}
+696166	{'title': 'joy', 'year': '2001', 'paradigm(s)': ['multi-paradigm', 'functional', 'concatenative', 'stack-oriented'], 'typing': ['strong', 'dynamic'], 'influenced': [891398], 'influenced by': [28119, 899253, 11012]}
+263872	{'title': 'jscript', 'year': '1996', 'paradigm(s)': [], 'typing': ['dynamic', 'weak', 'duck'], 'influenced': [], 'influenced by': []}
+840451	{'title': 'jscript .net', 'year': 0, 'paradigm(s)': ['multi-paradigm'], 'typing': ['duck', 'weak', 'dynamic'], 'influenced': [], 'influenced by': [263872, 188515]}
+38455554	{'title': 'julia', 'year': '2012', 'paradigm(s)': ['Multi-paradigm', 'multiple dispatch', 'procedural', 'functional', 'meta', 'multistaged', '[1]'], 'typing': ['dynamic', 'nominative', 'parametric', 'optional'], 'influenced': [], 'influenced by': [6021, 18016, 46150, 51022500, 40205956, 20412, 23939, 23862, 376707, 25768, 28119]}
+390263	{'title': 'jython', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+890956	{'title': 'k', 'year': '1993', 'paradigm(s)': ['array', 'functional'], 'typing': ['dynamic', 'strong'], 'influenced': [18595067], 'influenced by': [890931, 1451, 28119]}
+4400159	{'title': 'kaleidoscope (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1433925	{'title': 'karel the robot', 'year': '1981', 'paradigm(s)': ['procedural'], 'typing': [], 'influenced': [6983799], 'influenced by': [23773]}
+34180789	{'title': 'intellicorp (software)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1370630	{'title': 'kixtart', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+60130039	{'title': 'klerer-may system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5558061	{'title': 'knowledge interchange format', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+52836480	{'title': 'kojo (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+41819039	{'title': 'kotlin', 'year': '2011', 'paradigm(s)': [], 'typing': ['inferred', 'static', 'strong'], 'influenced': [], 'influenced by': [2356196, 29539307, 57417762, 15881, 20607, 23862, 3254510]}
+17224	{'title': 'krc', 'year': '1981', 'paradigm(s)': ['functional'], 'typing': [], 'influenced': [7238799], 'influenced by': [1298198]}
+17227	{'title': 'krl', 'year': '1976', 'paradigm(s)': ['knowledge representation'], 'typing': [], 'influenced': [], 'influenced by': []}
+50540803	{'title': 'kuka robot language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [23773]}
+29824534	{'title': 'krypton', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+52197438	{'title': 'korn shell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13837554	{'title': 'kodu', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+36091677	{'title': 'kivy', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+544733	{'title': 'labview', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+66251	{'title': 'ladder logic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6761437	{'title': 'lansa (development environment)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+524247	{'title': 'lasso', 'year': '1995', 'paradigm(s)': ['Multi-paradigm', 'structured', 'object-oriented', 'multi-dis', 'imperative', 'procedural', 'concurrent', 'exp-oriented', 'Meta', 'reflective'], 'typing': ['dynamic', 'nominative', 'duck'], 'influenced': [], 'influenced by': [8741, 28319, 3254510]}
+1982671	{'title': 'lava (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+62088108	{'title': 'lc-3', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+8661235	{'title': 'legoscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+35320077	{'title': 'little implementation language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+169144	{'title': 'lilypond', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+236298	{'title': 'limbo', 'year': '1995', 'paradigm(s)': ['Concurrent'], 'typing': ['strong'], 'influenced': [2009536, 25039021, 29414838], 'influenced by': [6021, 23773, 247370, 1935217, 25051106]}
+2782804	{'title': 'limnor', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4298516	{'title': 'linc 4gl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+493076	{'title': 'lingo (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+11904240	{'title': 'linq', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+12073324	{'title': 'lis (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+36674108	{'title': 'language for instruction set architecture', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+18016	{'title': 'lisp', 'year': '1958', 'paradigm(s)': ['Multi-paradigm', 'functional', 'procedural', 'reflective', 'meta'], 'typing': ['dynamic', 'strong'], 'influenced': [418603, 7575, 94451, 8741, 38202780, 11012, 27404990, 323340, 20148120, 9845, 38455554, 18334, 46150, 20607, 45413679, 17151577, 475829, 23939, 981616, 562827, 23862, 376707, 26384, 25768, 3254510, 42946389, 28319, 39880682, 40205956], 'influenced by': [303031]}
+10780425	{'title': 'lite-c', 'year': '2007', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+908572	{'title': 'lithe (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4740151	{'title': 'little b', 'year': '2004', 'paradigm(s)': ['functional'], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [18016]}
+41754003	{'title': 'ethereum', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+18334	{'title': 'logo', 'year': '1967', 'paradigm(s)': [], 'typing': ['dynamic'], 'influenced': [6983799, 593757, 28319, 4052771, 9236158, 6648528, 41325783], 'influenced by': [18016]}
+7792164	{'title': 'logtalk', 'year': '1998', 'paradigm(s)': ['Logic programming', 'object-oriented programming', 'prototype-based programming'], 'typing': [], 'influenced': [], 'influenced by': [23485, 28319, 39809523]}
+239268	{'title': 'lotusscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+904645	{'title': 'lpc', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'functional', 'procedural', 'prototype-based'], 'typing': ['weak', 'static', 'strong'], 'influenced': [86780], 'influenced by': [6021, 72038, 18016, 23939]}
+11730351	{'title': 'lse (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+843913	{'title': 'linden scripting language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+30890362	{'title': 'livecode', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+17731	{'title': 'livescript', 'year': '2011', 'paradigm(s)': ['multi-paradigm', 'functional', 'object-oriented'], 'typing': ['dynamic', 'weak'], 'influenced': [], 'influenced by': [9845, 27404990, 27403236, 239964]}
+46150	{'title': 'lua', 'year': '1993', 'paradigm(s)': ['Multi-paradigm', 'scripting', 'imperative', 'procedural', 'prototype-based', 'object-oriented', 'functional'], 'typing': ['dynamic', 'strong', 'duck'], 'influenced': [1131159, 323340, 9845, 38455554, 10965409, 35733875, 25768, 2819069, 1422467], 'influenced by': [72038, 7575, 24102707, 28119, 29515]}
+1485589	{'title': 'lucid', 'year': '1976', 'paradigm(s)': ['Dataflow'], 'typing': [], 'influenced': [57406, 9069072, 2211835], 'influenced by': [233385]}
+2211835	{'title': 'lustre (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+18305664	{'title': 'lyapas', 'year': '1964', 'paradigm(s)': [], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [1451]}
+18530	{'title': 'lynx (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+941103	{'title': 'm2001', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+625653	{'title': 'm4', 'year': '1977', 'paradigm(s)': ['macro'], 'typing': [], 'influenced': [], 'influenced by': []}
+51974468	{'title': 'm sharp (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20683	{'title': 'machine code', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2988758	{'title': 'magik (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+39203693	{'title': 'magma computer algebra system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1251423	{'title': 'maude system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+530658	{'title': 'máni', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+79099	{'title': 'maple', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7920952	{'title': 'mapper', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7918764	{'title': 'mark iv (software)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20340	{'title': 'mary', 'year': '1970s', 'paradigm(s)': ['imperative'], 'typing': ['static', 'strong'], 'influenced': [], 'influenced by': [692880]}
+1061469	{'title': 'microsoft macro assembler', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+202110	{'title': 'math-matic', 'year': '1957', 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [], 'influenced by': [82760]}
+51022500	{'title': 'mathematica', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20412	{'title': 'matlab', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+95925	{'title': 'maxima', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+479795	{'title': 'max', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+313216	{'title': 'autodesk 3ds max', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1690201	{'title': 'maya embedded language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+586499	{'title': 'mdl', 'year': '1971', 'paradigm(s)': [], 'typing': ['dynamic', 'strong'], 'influenced': [46143, 28119, 6068, 15881, 23485, 28319, 1637868, 14789], 'influenced by': [18016]}
+19726	{'title': 'mercury', 'year': 'April\xa08, 1995', 'paradigm(s)': ['Logic', 'functional', 'object-oriented'], 'typing': ['strong', 'static', 'polymorphic'], 'influenced': [], 'influenced by': [23485, 933188, 27404990]}
+19962	{'title': 'mesa[1]', 'year': '1976', 'paradigm(s)': [], 'typing': [], 'influenced': [15881, 24102707, 9857086], 'influenced by': [1453]}
+44263	{'title': 'metafont', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+226438	{'title': 'mheg-5', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20072	{'title': 'microassembler', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2232731	{'title': 'microscript (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3359079	{'title': 'miis (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+51603617	{'title': 'milk (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4017688	{'title': 'mimic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+27970668	{'title': 'mirah', 'year': 0, 'paradigm(s)': [], 'typing': ['static, with dynamic features', 'strong', 'inferred'], 'influenced': [], 'influenced by': [25768, 15881, 1147624]}
+93267	{'title': 'miranda', 'year': '1985', 'paradigm(s)': ['lazy', 'functional', 'declarative'], 'typing': ['strong', 'static'], 'influenced': [161878, 27404990, 15127684], 'influenced by': [17224, 20607, 9123867, 933188]}
+849448	{'title': 'miva script', 'year': '1996', 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [], 'influenced by': [6021, 23939, 15881, 72038]}
+20607	{'title': 'ml', 'year': '1973', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative'], 'typing': ['inferred', 'static', 'strong'], 'influenced': [16561990, 581974, 7645, 72038, 37552825, 239964, 38420593, 27404990, 39035048, 93267, 30883042, 39652, 32976878, 9646, 29414838, 3254510], 'influenced by': [233385]}
+1318381	{'title': 'model 204', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1467946	{'title': 'modelica', 'year': '1997', 'paradigm(s)': ['declarative language'], 'typing': [], 'influenced': [], 'influenced by': []}
+20824	{'title': 'modula', 'year': '1975', 'paradigm(s)': [], 'typing': [], 'influenced': [933674, 25039021, 24102707], 'influenced by': [23773]}
+24102707	{'title': 'modula-2', 'year': '1978', 'paradigm(s)': ['imperative', 'structured', 'modular', 'data and procedure hiding', 'concurrent'], 'typing': [], 'influenced': [241545, 22496, 1242, 1002285, 46150, 36346048, 39516472], 'influenced by': [20824, 19962, 23773, 949017, 827385]}
+241545	{'title': 'modula-3', 'year': '1980s', 'paradigm(s)': ['imperative', 'structured', 'procedural', 'modular', 'concurrent'], 'typing': ['strong', 'static', 'safe', 'unsafe'], 'influenced': [15881, 23862, 2362118, 2356196, 45413679], 'influenced by': [7632959, 24102707, 23773, 1453, 22496, 19962, 827385]}
+948998	{'title': 'mohol programming languages', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20178	{'title': 'moo', 'year': '1990', 'paradigm(s)': ['multi-paradigm', 'structured', 'prototype-based'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [261121, 7238785, 28119, 28319, 60265, 6021, 1242, 539194]}
+1979848	{'title': 'mortran', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6378343	{'title': 'mouse (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+928466	{'title': 'mpd (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1730437	{'title': 'mathcad', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+310996	{'title': 'mirc scripting language', 'year': '1995', 'paradigm(s)': ['Event-driven programming', 'Procedural programming'], 'typing': ['dynamic typing'], 'influenced': [], 'influenced by': []}
+19723	{'title': 'mumps', 'year': '1966', 'paradigm(s)': ['Procedural'], 'typing': [], 'influenced': [17687494, 2242790], 'influenced by': [140643]}
+30874575	{'title': 'mupad', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1637709	{'title': 'mystic bbs', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+60647	{'title': 'netwide assembler', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5748470	{'title': 'napier88', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+59627681	{'title': 'neko (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+30883042	{'title': 'nemerle', 'year': '2003', 'paradigm(s)': ['multi-paradigm', 'metaprogramming', 'functional', 'object-oriented', 'imperative'], 'typing': ['static', 'strong', 'inferred', 'nominal'], 'influenced': [], 'influenced by': [2356196, 20607, 18016]}
+919571	{'title': 'nesl', 'year': '1993', 'paradigm(s)': ['functional', 'array'], 'typing': [], 'influenced': [], 'influenced by': []}
+18491810	{'title': 'net.data', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+593757	{'title': 'netlogo', 'year': '1999', 'paradigm(s)': [], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [18334, 746828]}
+11690683	{'title': 'netrexx', 'year': '1996', 'paradigm(s)': ['multiparadigm', 'object-oriented', 'procedural', 'structured'], 'typing': ['static, strong, safe', 'dynamic', 'string'], 'influenced': [], 'influenced by': [23708, 37973279, 1353817, 15881]}
+1964813	{'title': 'newlisp', 'year': '1991', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [6021, 6068, 23939, 28119]}
+6433017	{'title': 'newp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+24308364	{'title': 'newspeak', 'year': '2006', 'paradigm(s)': ['object-oriented', 'functional'], 'typing': ['dynamic', 'optional'], 'influenced': [], 'influenced by': [28319, 60265, 135868, 23454753]}
+60545	{'title': 'newtonscript', 'year': '1993', 'paradigm(s)': ['Prototype', 'Object-oriented'], 'typing': ['dynamic'], 'influenced': [7071680], 'influenced by': [60265, 7238578]}
+21571	{'title': 'nial', 'year': '1981', 'paradigm(s)': ['array'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [7238495, 7238785]}
+294856	{'title': 'nice (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4072208	{'title': 'nickle', 'year': '2001', 'paradigm(s)': ['multi-paradigm'], 'typing': [], 'influenced': [], 'influenced by': [6021, 18016, 241545, 20607, 15881]}
+45413679	{'title': 'nim', 'year': '2008', 'paradigm(s)': [], 'typing': ['static', '[1]', 'strong', '[2]', 'inferred', 'structural'], 'influenced': [], 'influenced by': [1242, 241545, 18016, 72038, 630175, 23862, 22496]}
+37469066	{'title': 'nord programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+16826148	{'title': 'not exactly c', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+969174	{'title': 'not quite c', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+307436	{'title': 'nullsoft scriptable install system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+17151577	{'title': 'nu', 'year': '2007', 'paradigm(s)': ['structured', 'imperative', 'functional', 'object-oriented'], 'typing': [], 'influenced': [], 'influenced by': [18016, 39809523, 25768]}
+853032	{'title': 'nwscript', 'year': 'June 18, 2002', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [6021, 15881]}
+30803208	{'title': 'nxt-g', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+851815	{'title': 'o:xml', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+16840885	{'title': 'oak (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+22496	{'title': 'oberon', 'year': '1986', 'paradigm(s)': ['Imperative', 'structured', 'modular', 'object-oriented'], 'typing': [], 'influenced': [449019, 39516472, 25039021, 45413679, 20961640, 357599], 'influenced by': [24102707]}
+1063980	{'title': 'obj2', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1064021	{'title': 'object lisp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1064025	{'title': 'objectlogo', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1353817	{'title': 'object rexx', 'year': '1988', 'paradigm(s)': ['Object-oriented', 'class-based'], 'typing': [], 'influenced': [11690683], 'influenced by': [25572284, 28319]}
+630175	{'title': 'object pascal', 'year': '1986', 'paradigm(s)': ['Imperative', 'structured', 'object-oriented', 'functional (Delphi dialect only)', 'component-based', 'event-driven', 'generic'], 'typing': ['static and dynamic', 'rtti', 'strong', 'safe'], 'influenced': [2356196, 25291443, 15881, 45413679, 13281075], 'influenced by': [23773, 29513, 28319]}
+39809523	{'title': 'objective-c', 'year': '1984', 'paradigm(s)': ['Reflective', 'class-based', 'object-oriented'], 'typing': ['static', 'dynamic', 'weak'], 'influenced': [57417762, 15881, 17151577, 19176983, 11090266, 42946389], 'influenced by': [6021, 28319]}
+19176983	{'title': 'objective-j', 'year': '2008', 'paradigm(s)': ['Multi-paradigm', 'reflective', 'object-oriented', 'functional', 'imperative', 'scripting'], 'typing': ['dynamic', 'weak', 'duck'], 'influenced': [], 'influenced by': [39809523, 9845]}
+602578	{'title': 'obliq', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'parallel', 'Prototype-based'], 'typing': ['strong', 'dynamic'], 'influenced': [], 'influenced by': [241545, 60265, 22496]}
+39652	{'title': 'ocaml', 'year': '1996', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'object-oriented'], 'typing': ['inferred', 'static', 'strong', 'structural'], 'influenced': [19905196, 581974, 37552825, 239964, 38420593, 5404706, 32976878, 60312680, 29414838, 3254510], 'influenced by': [2362118, 100337, 23773]}
+22660	{'title': 'occam', 'year': '1983', 'paradigm(s)': ['Imperative', 'procedural', 'concurrent'], 'typing': [], 'influenced': [1968693, 25039021, 23862], 'influenced by': [247370]}
+2079775	{'title': 'occam-π', 'year': 0, 'paradigm(s)': ['Imperative', 'procedural', 'concurrent'], 'typing': [], 'influenced': [], 'influenced by': [22660]}
+48707	{'title': 'gnu octave', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3375679	{'title': 'omnimark', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3304684	{'title': 'onyx (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+32976878	{'title': 'opa', 'year': '2011', 'paradigm(s)': ['multi-paradigm', 'functional', 'imperative'], 'typing': ['static', 'strong', 'inferred'], 'influenced': [], 'influenced by': [39652, 9646, 9845]}
+1936835	{'title': 'opal (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+17861917	{'title': 'opencl api', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1071357	{'title': 'openedge advanced business language (abl)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+832032	{'title': 'open programming language (opl)', 'year': '1984', 'paradigm(s)': ['imperative', 'structured', 'embedded'], 'typing': [], 'influenced': [], 'influenced by': []}
+7841593	{'title': 'openvera', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+475829	{'title': 'ops5', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+28952622	{'title': 'optimj', 'year': '2006', 'paradigm(s)': ['object-oriented'], 'typing': [], 'influenced': [], 'influenced by': [15881]}
+13345244	{'title': 'orc', 'year': '2004', 'paradigm(s)': ['concurrent', 'nondeterministic'], 'typing': [], 'influenced': [], 'influenced by': [27404990, 20607, 256916, 28319, 6751312]}
+19981418	{'title': 'orca/modula-2', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+35116049	{'title': 'oriel', 'year': '1991', 'paradigm(s)': ['Imperative', 'Procedural'], 'typing': [], 'influenced': [], 'influenced by': []}
+15127684	{'title': 'orwell', 'year': '1984', 'paradigm(s)': ['Lazy', 'functional'], 'typing': [], 'influenced': [27404990], 'influenced by': [93267]}
+4249746	{'title': 'oxygene', 'year': '2005', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [630175, 2356196]}
+256916	{'title': 'oz', 'year': '1991', 'paradigm(s)': ['multi-paradigm', 'logic', 'functional', 'imperative', 'object-oriented', 'constraint', 'distributed', 'concurrent'], 'typing': ['dynamic'], 'influenced': [30877972, 3254510], 'influenced by': [9646, 18016, 23485]}
+53163248	{'title': 'p', 'year': '2012', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+46347117	{'title': 'p4', 'year': '2013', 'paradigm(s)': ['compiled', 'domain-specific', 'imperative'], 'typing': [], 'influenced': [], 'influenced by': []}
+2242844	{'title': 'p′′', 'year': '1964', 'paradigm(s)': ['Imperative', 'structured'], 'typing': [], 'influenced': [4086], 'influenced by': []}
+36619168	{'title': 'parasail', 'year': '2009', 'paradigm(s)': ['compiled', 'concurrent', 'imperative', 'structured', 'object-oriented'], 'typing': ['strong', 'static'], 'influenced': [], 'influenced by': [20824, 1242, 23773, 20607]}
+24383128	{'title': 'pari/gp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23773	{'title': 'pascal', 'year': '1970', 'paradigm(s)': ['Imperative', 'Structured'], 'typing': ['static', 'strong', 'safe'], 'influenced': [1242, 357599, 25039021, 15881, 20824, 24102707, 241545, 22496, 50318793, 630175, 4249746, 36346048, 43410, 3432584], 'influenced by': [211058]}
+31788384	{'title': 'pascal script', 'year': '2000', 'paradigm(s)': ['Procedural', 'object-oriented', 'scripting'], 'typing': ['strong'], 'influenced': [], 'influenced by': [23773, 630175]}
+17955097	{'title': 'pcastl', 'year': '2008', 'paradigm(s)': ['imperative', 'reflective'], 'typing': [], 'influenced': [], 'influenced by': [6021, 376707]}
+31005079	{'title': 'programming language for computable functions', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2603123	{'title': 'pearl (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5157513	{'title': 'peoplecode', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'imperative'], 'typing': [], 'influenced': [], 'influenced by': []}
+23939	{'title': 'perl', 'year': 'December\xa018, 1987', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'object-oriented', 'class-based', 'reflective'], 'typing': [], 'influenced': [27403236, 25432026, 57417762, 25432026, 9845, 38455554, 904645, 24131, 23862, 1146638, 25768, 4895712], 'influenced by': [15703913, 4015, 6021, 72038, 18016, 27163, 32035]}
+908764	{'title': 'perl data language (pdl)', 'year': '1996', 'paradigm(s)': ['Array'], 'typing': [], 'influenced': [], 'influenced by': [1451, 512587, 23939]}
+62080920	{'title': 'perl 6', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23490878	{'title': 'pharo', 'year': '2008', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [28319, 37426]}
+24131	{'title': 'php', 'year': '1995', 'paradigm(s)': ['Imperative', 'functional', 'object-oriented', 'procedural', 'reflective'], 'typing': ['dynamic', 'weak', 'gradual', '[4]'], 'influenced': [42257880], 'influenced by': [23939, 6021, 72038, 15881, 39880682, 9845, 42257880]}
+379013	{'title': 'pico', 'year': '1997', 'paradigm(s)': ['Reflective', 'procedural'], 'typing': [], 'influenced': [], 'influenced by': [28119]}
+46463857	{'title': 'picolisp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6751312	{'title': 'pict', 'year': 0, 'paradigm(s)': ['Concurrent'], 'typing': ['static'], 'influenced': [13345244], 'influenced by': [20607]}
+57360209	{'title': 'pig (programming tool)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+86780	{'title': 'pike', 'year': '1994', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'functional', 'procedural'], 'typing': ['static', 'dynamic', 'manifest'], 'influenced': [], 'influenced by': [904645, 6021, 72038]}
+57399	{'title': 'pilot', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+509700	{'title': 'pizza', 'year': 0, 'paradigm(s)': ['generics', 'algebraic types'], 'typing': [], 'influenced': [53891883, 7190667], 'influenced by': [15881]}
+507366	{'title': 'pl-11', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+507221	{'title': 'pl/0', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+350323	{'title': 'programming language for business', 'year': '1972', 'paradigm(s)': ['Procedural', 'imperative'], 'typing': ['strong', '[1]', 'static'], 'influenced': [], 'influenced by': [6799]}
+309357	{'title': 'pl/c', 'year': '1973', 'paradigm(s)': ['procedural', 'imperative', 'structured'], 'typing': ['strong'], 'influenced': [], 'influenced by': [23708]}
+543057	{'title': 'pl/m', 'year': '1973', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [1453, 23708, 902082]}
+1960521	{'title': 'pl/p', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+33862363	{'title': 'pl/sql', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+15774460	{'title': 'pl360', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5081365	{'title': 'planc', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+65944	{'title': 'plankalkül', 'year': '1948', 'paradigm(s)': ['Procedural'], 'typing': [], 'influenced': [62017767, 29245633, 944870], 'influenced by': [900125]}
+46143	{'title': 'planner', 'year': '1969', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+21866469	{'title': 'plex', 'year': '1970s', 'paradigm(s)': ['procedural', 'imperative'], 'typing': [], 'influenced': [], 'influenced by': []}
+19189627	{'title': 'plexil', 'year': '2005', 'paradigm(s)': ['Multi-paradigm'], 'typing': ['static', 'unsafe', 'nominative'], 'influenced': [], 'influenced by': []}
+27900530	{'title': 'plus', 'year': '1976', 'paradigm(s)': ['imperative', 'structured'], 'typing': ['static', 'strong', 'safe'], 'influenced': [], 'influenced by': []}
+562827	{'title': 'pop-11', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+981616	{'title': 'pop-2', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+24080	{'title': 'postscript', 'year': '1982', 'paradigm(s)': ['Multi-paradigm', 'stack-based', 'procedural'], 'typing': [], 'influenced': [57131254], 'influenced by': [200138, 18016]}
+159350	{'title': 'pov-ray', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25663569	{'title': 'powerhouse (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1611118	{'title': 'appeon powerbuilder', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+14465871	{'title': 'powershell', 'year': 'November\xa014, 2006', 'paradigm(s)': ['Imperative', 'pipeline', 'object-oriented', 'functional', 'reflective'], 'typing': ['strong', 'safe', 'implicit', 'dynamic'], 'influenced': [], 'influenced by': [23862, 52197438, 23939, 2356196, 431985, 532369, 29004, 39880682, 11946436, 22561399, 14432911]}
+5005125	{'title': 'polymorphic programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+546083	{'title': 'processing', 'year': '2001', 'paradigm(s)': ['Object-oriented'], 'typing': [], 'influenced': [], 'influenced by': []}
+28051408	{'title': 'processing.js', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+521637	{'title': 'prograph', 'year': '1983', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'visual', 'dataflow'], 'typing': [], 'influenced': [], 'influenced by': [10933, 864364, 598669]}
+580197	{'title': 'proiv', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23485	{'title': 'prolog', 'year': '1972', 'paradigm(s)': ['Logic programming'], 'typing': [], 'influenced': [1753362, 16561990, 968357, 9646, 17178, 17179, 19726, 256916, 7837169, 1741668, 4723102], 'influenced by': [46143]}
+1064169	{'title': 'promal', 'year': '1984-08-16', 'paradigm(s)': ['Imperative', 'procedural', 'structured'], 'typing': [], 'influenced': [], 'influenced by': []}
+9733137	{'title': 'promela', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+40811716	{'title': 'prose modeling language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13134192	{'title': 'protel', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2276397	{'title': 'providex', 'year': '1992', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [912124]}
+13142178	{'title': 'pro*c', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20446791	{'title': 'pure', 'year': '2008', 'paradigm(s)': ['Functional', 'declarative', 'term rewriting'], 'typing': ['strong', 'dynamic'], 'influenced': [], 'influenced by': [27404990, 18016, 30877972, 20412]}
+480378	{'title': 'pure data', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23862	{'title': 'python', 'year': '1990', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'object-oriented', 'reflective'], 'typing': ['duck', 'dynamic', 'gradual', '[4]'], 'influenced': [508401, 1147624, 13862555, 27403236, 243881, 239964, 25291443, 25039021, 9845, 38455554, 45413679, 25768, 42946389], 'influenced by': [147585, 692880, 1451, 6021, 72038, 7575, 8741, 27404990, 14801, 15881, 18016, 241545, 23939, 100337]}
+18595067	{'title': 'q', 'year': '2003', 'paradigm(s)': ['Array', 'functional'], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [890931, 1451, 28119, 890956]}
+56025620	{'title': 'q#', 'year': 'December 11th, 2017', 'paradigm(s)': ['multi-paradigm', 'quantum', 'functional', 'imperative'], 'typing': ['static', 'strong'], 'influenced': [], 'influenced by': [2356196, 239964]}
+38441485	{'title': 'قلب', 'year': '2012', 'paradigm(s)': ['Functional'], 'typing': [], 'influenced': [], 'influenced by': [28119]}
+9609819	{'title': 'qtscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25207	{'title': 'quakec', 'year': '1996', 'paradigm(s)': ['imperative', 'procedural', 'structured'], 'typing': ['static', 'strong'], 'influenced': [], 'influenced by': [6021]}
+2137644	{'title': 'quantum programming', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2010706	{'title': 'qbasic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+376707	{'title': 'r', 'year': 'August\xa01993', 'paradigm(s)': [], 'typing': ['dynamic'], 'influenced': [38455554], 'influenced by': [6068, 919313, 28119, 1988114]}
+8387439	{'title': 'r++', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3350021	{'title': 'racket', 'year': '1995', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'logic', 'meta', 'modular', 'object-oriented', 'reflective'], 'typing': ['dynamic', 'static', 'strong'], 'influenced': [16561990, 29414838, 28119], 'influenced by': [9838, 28119]}
+26407459	{'title': 'rapid', 'year': '1994', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [6021]}
+146951	{'title': 'rapira', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+642890	{'title': 'ratfiv', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+390257	{'title': 'ratfor', 'year': '1976', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [11168, 6021]}
+171918	{'title': 'rc', 'year': '1989', 'paradigm(s)': ['imperative', 'pipeline'], 'typing': ['weak'], 'influenced': [36811567, 507928], 'influenced by': [92839]}
+60312680	{'title': 'reason', 'year': 'May\xa016, 2016', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'object-oriented'], 'typing': ['inferred', 'static', 'strong', 'structural'], 'influenced': [], 'influenced by': [39652]}
+41325783	{'title': 'rebol', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+35733875	{'title': 'red', 'year': '2011', 'paradigm(s)': ['imperative', 'functional', 'symbolic'], 'typing': [], 'influenced': [], 'influenced by': [26384, 3254510, 46150]}
+274362	{'title': 'core war', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+15212130	{'title': 'refal', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+37973279	{'title': 'rexx', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+593529	{'title': 'rlab', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+931356	{'title': 'roop (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+512681	{'title': 'rpl', 'year': '1984 (1986)', 'paradigm(s)': ['stack', 'structured', 'object-oriented'], 'typing': [], 'influenced': [], 'influenced by': [733576, 11012, 18016]}
+867311	{'title': 'robot battle', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+28045268	{'title': 'rtl/2', 'year': '1972', 'paradigm(s)': ['structured', 'imperative'], 'typing': [], 'influenced': [], 'influenced by': [423612]}
+25768	{'title': 'ruby', 'year': '1995', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative', 'object-oriented', 'reflective'], 'typing': ['duck', 'dynamic', 'strong'], 'influenced': [16561990, 27403236, 48972626, 243881, 38202780, 57417762, 20148120, 38455554, 27970668, 17151577, 42946389], 'influenced by': [1242, 72038, 7575, 8741, 9838, 18016, 46150, 23939, 23862, 28319, 4015]}
+11166672	{'title': 'runescript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+29414838	{'title': 'rust', 'year': 'July\xa07, 2010', 'paradigm(s)': [], 'typing': ['inferred', 'linear', 'nominal', 'static', 'strong'], 'influenced': [48972626, 37552825, 39035048, 291874, 42946389], 'influenced by': [1935217, 2356196, 72038, 7645, 9646, 27404990, 236298, 25051106, 39652, 28119, 100337, 42946389]}
+919313	{'title': 's', 'year': '1976', 'paradigm(s)': ['multi-paradigm', 'imperative', 'object oriented'], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [6021, 1451, 5005125, 11168]}
+439466	{'title': 's2', 'year': '1999', 'paradigm(s)': ['Object-oriented'], 'typing': [], 'influenced': [], 'influenced by': []}
+11484588	{'title': 's3', 'year': 0, 'paradigm(s)': ['Structured', 'imperative'], 'typing': [], 'influenced': [], 'influenced by': [692880]}
+356693	{'title': 's-lang (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3830007	{'title': 's-plus', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+8787221	{'title': 'sa-c (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+531030	{'title': 'sabretalk', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+481275	{'title': 'sail (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3879739	{'title': 'sam76', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25598423	{'title': 'sas system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1298198	{'title': 'sasl', 'year': '1972', 'paradigm(s)': ['functional'], 'typing': [], 'influenced': [17224, 7238799, 27404990], 'influenced by': [233385]}
+28763	{'title': 'sather', 'year': '1990', 'paradigm(s)': ['object-oriented', 'functional'], 'typing': ['static', 'strong'], 'influenced': [14782123], 'influenced by': [9838, 7575, 6068, 28119]}
+12640293	{'title': 'sawzall (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3254510	{'title': 'scala', 'year': '20\xa0January 2004', 'paradigm(s)': ['Multi-paradigm', 'concurrent', 'functional', 'imperative', 'object-oriented'], 'typing': ['inferred', 'static', 'strong', 'structural'], 'influenced': [31483631, 18969637, 239964, 41819039, 524247, 35733875], 'influenced by': [6068, 9838, 9646, 27404990, 15881, 39652, 256916, 509700, 28119, 28319, 100337]}
+28119	{'title': 'scheme', 'year': '1975', 'paradigm(s)': [], 'typing': ['dynamic', 'latent', 'strong'], 'influenced': [16561990, 6068, 8741, 4158686, 27404990, 13433106, 9845, 38455554, 46150, 376707, 25768, 29414838, 919313, 3254510], 'influenced by': [1453, 18016, 586499]}
+153563	{'title': 'scilab', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9236158	{'title': 'scratch', 'year': '2002', 'paradigm(s)': ['Event-driven', 'visual', 'block-based'], 'typing': [], 'influenced': [44013448, 34236881], 'influenced by': [18334, 28319, 13567, 746828, 6983799, 56882690, 4052771]}
+13819923	{'title': 'script.net', 'year': 0, 'paradigm(s)': ['imperative', 'meta', 'scripting'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [9845]}
+27163	{'title': 'sed', 'year': '1974', 'paradigm(s)': ['scripting'], 'typing': [], 'influenced': [18718048, 23939, 1456], 'influenced by': [9771]}
+36346048	{'title': 'seed7', 'year': '2005', 'paradigm(s)': ['multi-paradigm', 'extensible', 'object-oriented', 'imperative', 'structured', 'generic', 'reflective'], 'typing': ['static', 'strong', 'safe', 'nominative', 'manifest'], 'influenced': [], 'influenced by': [23773, 24102707, 1242, 692880, 6021, 72038, 15881]}
+60265	{'title': 'self', 'year': '1987', 'paradigm(s)': ['object-oriented', 'prototype-based'], 'typing': ['dynamic', 'strong'], 'influenced': [60545, 9845, 323340, 933477, 37426, 46150, 891398, 41325783], 'influenced by': [28319]}
+9096092	{'title': 'sensetalk', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+37895661	{'title': 'sequencel', 'year': '1989', 'paradigm(s)': [], 'typing': ['static', 'type inference'], 'influenced': [], 'influenced by': []}
+916963	{'title': 'setl', 'year': '1969', 'paradigm(s)': ['multi-paradigm', 'imperative', 'procedural', 'structured', 'object-oriented'], 'typing': ['dynamic'], 'influenced': [920004, 920018, 147585], 'influenced by': [692878]}
+46574755	{'title': 'superbase database', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+32475185	{'title': 'signal (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+39282074	{'title': 'simple', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1064164	{'title': 'simscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+29513	{'title': 'simula', 'year': '1962', 'paradigm(s)': ['Object-oriented'], 'typing': ['static', 'nominative'], 'influenced': [22758], 'influenced by': [692878, 58536710]}
+562695	{'title': 'simulink', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2049655	{'title': 'singularity project', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+57406	{'title': 'sisal', 'year': '1983', 'paradigm(s)': ['functional', 'dataflow'], 'typing': ['static', 'strong'], 'influenced': [27404990, 25432026, 2179985], 'influenced by': [23773, 6021, 11168]}
+4449554	{'title': 'slip (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1808130	{'title': 'small', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+28319	{'title': 'smalltalk', 'year': '1972', 'paradigm(s)': ['Object-oriented'], 'typing': ['strong', 'dynamic'], 'influenced': [88392, 191414, 33033735, 8741, 9646, 4052771, 25039021, 57417762, 323340, 20148120, 15881, 524247, 7792164, 24308364, 60545, 1353817, 39809523, 24131, 23862, 1146638, 25768, 3254510, 9236158, 60265], 'influenced by': [18016, 29513, 908540, 859608, 46143, 18334, 78126, 292961, 8115636, 4230]}
+100337	{'title': 'standard ml', 'year': '1983', 'paradigm(s)': ['Multi-paradigm', 'functional', 'imperative'], 'typing': ['strong', 'static', 'inferred'], 'influenced': [37552825, 239964, 39652, 23862, 29414838, 3254510], 'influenced by': [7389219, 933188, 23773]}
+1569550	{'title': 'strongtalk', 'year': '1\xa0July 2002', 'paradigm(s)': ['Object-oriented'], 'typing': ['dynamic', 'static'], 'influenced': [15881, 1800920], 'influenced by': [28319, 60265]}
+34236881	{'title': 'snap! (byob[note 1])', 'year': '2011', 'paradigm(s)': ['object-oriented', 'educational', 'event-driven'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [9236158, 28119, 18334, 28319]}
+29515	{'title': 'snobol', 'year': '1962', 'paradigm(s)': ['Imperative', 'unstructured'], 'typing': [], 'influenced': [14801, 46150], 'influenced by': [1012894]}
+30772911	{'title': 'snowball programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4536722	{'title': 'secure operations language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6817996	{'title': 'solidity', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [9845, 72038, 23862, 14465871]}
+6400247	{'title': 'sophaeros', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+291874	{'title': 'spark', 'year': 0, 'paradigm(s)': ['Multi-paradigm'], 'typing': ['static', 'strong', 'safe', 'nominative'], 'influenced': [], 'influenced by': [1242, 9838]}
+24641580	{'title': 'speakeasy', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6616312	{'title': 'speedcoding', 'year': '1953', 'paradigm(s)': ['structured', 'object-oriented', 'generic'], 'typing': ['strong', 'static', 'manifest'], 'influenced': [11168, 944870, 4015, 6021, 23708, 27174347, 19723, 390257], 'influenced by': [1368, 20683]}
+5118476	{'title': 'parallax propeller', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+827334	{'title': 'sp/k', 'year': '1974', 'paradigm(s)': ['structured', 'imperative'], 'typing': ['static', 'strong'], 'influenced': [31105], 'influenced by': [23708]}
+14654906	{'title': 'ibm 1401 symbolic programming system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+29004	{'title': 'sql', 'year': '1974', 'paradigm(s)': ['Multi-paradigm', 'declarative'], 'typing': ['static', 'strong'], 'influenced': [9672320, 13706337, 2574343, 14465871, 21670195, 60675294, 40516644], 'influenced by': [968357]}
+1862060	{'title': 'sqr', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+37426	{'title': 'squeak', 'year': '1996', 'paradigm(s)': ['object-oriented'], 'typing': ['dynamic'], 'influenced': [4052771, 1474975, 9236158], 'influenced by': [28319, 18016, 18334, 78126, 29513, 60265]}
+2819069	{'title': 'squirrel', 'year': '2003', 'paradigm(s)': ['Multi-paradigm', 'scripting', 'imperative', 'functional', 'object-oriented'], 'typing': ['dynamic'], 'influenced': [10965409], 'influenced by': [72038, 9845, 46150, 23862]}
+485875	{'title': 'sr (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+485828	{'title': 's/sl programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+917759	{'title': 'starlogo', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7837169	{'title': 'strand (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1809002	{'title': 'stata', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+562713	{'title': 'stateflow', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2199610	{'title': 'subtext (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+346978	{'title': 'supercollider', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5235763	{'title': 'supertalk', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+42946389	{'title': 'swift', 'year': 'June\xa02, 2014', 'paradigm(s)': ['Multi-paradigm', 'protocol-oriented', 'object-oriented', 'functional', 'imperative', 'block structured'], 'typing': ['static', 'strong', 'inferred'], 'influenced': [], 'influenced by': [39809523, 29414838, 27404990, 25768, 23862, 2356196, 7575, 243881]}
+42946796	{'title': 'swift', 'year': '2007', 'paradigm(s)': [], 'typing': ['strong'], 'influenced': [], 'influenced by': [6021, 10933]}
+5029025	{'title': 'sympl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2540686	{'title': 'systemverilog', 'year': '2002', 'paradigm(s)': ['Structured', 'Object-oriented'], 'typing': ['static', 'weak'], 'influenced': [], 'influenced by': [63863, 43410, 72038, 7841593, 15881]}
+875484	{'title': 't', 'year': '1982', 'paradigm(s)': ['Multi-paradigm', 'object-oriented', 'imperative', 'functional', 'meta'], 'typing': ['dynamic', 'strong'], 'influenced': [4158686, 502786], 'influenced by': [28119]}
+1558785	{'title': 'tacl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1719114	{'title': 'tacpol (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+227991	{'title': 'tads', 'year': '1988', 'paradigm(s)': ['prototype-based', 'domain-specific'], 'typing': ['strong typing', 'type inference'], 'influenced': [], 'influenced by': []}
+1558864	{'title': 'transaction application language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+39880682	{'title': 'tcl', 'year': '1988', 'paradigm(s)': ['Multi-paradigm', 'event-driven', 'functional', 'imperative', 'object-oriented'], 'typing': ['dynamic typing', 'string'], 'influenced': [24131, 4895712, 3431871], 'influenced by': [1456, 18016]}
+3431871	{'title': 'tea', 'year': '1997', 'paradigm(s)': ['Multi-paradigm', 'Functional', 'Object-oriented', 'class-based'], 'typing': [], 'influenced': [], 'influenced by': [39880682, 15881, 28119]}
+34739391	{'title': 'text editor and corrector', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+991259	{'title': 'telcomp', 'year': '1965', 'paradigm(s)': [], 'typing': [], 'influenced': [19723], 'influenced by': [140643]}
+4269756	{'title': 'ubercode', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+31925	{'title': 'ucsd pascal/p-system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+39874090	{'title': 'umple', 'year': '2008', 'paradigm(s)': ['object-oriented'], 'typing': ['static'], 'influenced': [], 'influenced by': [15881, 72038, 32169, 25768, 24131]}
+902180	{'title': 'unicon', 'year': 0, 'paradigm(s)': ['object-oriented', 'procedural'], 'typing': [], 'influenced': [], 'influenced by': [7238710]}
+2905637	{'title': 'uniface', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3092830	{'title': 'unity (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+32035	{'title': 'unix shell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+118373	{'title': 'unrealscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+12655903	{'title': 'vala', 'year': '2006', 'paradigm(s)': ['Multi-paradigm', 'imperative', 'structured', 'object-oriented'], 'typing': ['static', 'strong'], 'influenced': [], 'influenced by': [6021, 72038, 2356196, 243881, 15881, 1147624]}
+63863	{'title': 'verilog', 'year': '1984', 'paradigm(s)': ['Structured'], 'typing': ['static', 'weak'], 'influenced': [2540686], 'influenced by': [6021, 11168]}
+43410	{'title': 'vhdl', 'year': '1980s', 'paradigm(s)': [], 'typing': ['strong'], 'influenced': [], 'influenced by': [1242, 23773]}
+32478	{'title': 'vim', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6097382	{'title': 'visual basic', 'year': '1991', 'paradigm(s)': ['Object-based', 'Event-driven'], 'typing': ['static', 'strong'], 'influenced': [208996, 215824, 39624220, 23497750, 19160625], 'influenced by': [4015]}
+208996	{'title': 'visual basic .net', 'year': '2001', 'paradigm(s)': ['Structured', 'imperative', 'object-oriented', 'declarative', 'generic', 'reflective', 'event-driven'], 'typing': ['static', 'both strong and weak', '[1]', 'both safe and unsafe', '[1]', 'nominative'], 'influenced': [20153719], 'influenced by': [6097382]}
+13483991	{'title': 'visual dataflex', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+45738	{'title': 'visual dialogscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+18931861	{'title': 'visual fortran', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23952547	{'title': 'visual foxpro', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+11359313	{'title': 'visual j', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+837643	{'title': 'visual objects', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1741668	{'title': 'visual prolog', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'logical', 'functional', 'object-oriented', 'imperative'], 'typing': ['static', 'strong', 'inferred'], 'influenced': [], 'influenced by': []}
+21802981	{'title': 'vsxu', 'year': 0, 'paradigm(s)': ['Visual programming'], 'typing': ['strong'], 'influenced': [], 'influenced by': [480378, 22497, 72038]}
+31410310	{'title': 'watfiv (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+47013794	{'title': 'webassembly', 'year': 'March\xa02017', 'paradigm(s)': ['Imperative', 'structured', 'expression-oriented'], 'typing': ['static'], 'influenced': [], 'influenced by': [38962533, 20607025]}
+24964854	{'title': 'webdna', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+48747326	{'title': 'whiley', 'year': 'June 2010', 'paradigm(s)': ['Imperative', 'Functional'], 'typing': ['strong, safe, structural, flow-sensitive'], 'influenced': [], 'influenced by': [15881, 6021, 23862, 29414838]}
+2343156	{'title': 'winbatch', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+40205956	{'title': 'wolfram language', 'year': '1988', 'paradigm(s)': ['Multi-paradigm', 'term-rewriting', 'functional', 'procedural', 'array'], 'typing': ['dynamic', 'strong'], 'influenced': [38455554], 'influenced by': [1451, 6021, 72038, 10942, 18016, 23773, 23485, 29513, 28319, 5903016]}
+43528524	{'title': 'wyvern (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+21146483	{'title': 'x++', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1932246	{'title': 'x10', 'year': '2004', 'paradigm(s)': ['Object-oriented'], 'typing': ['static, strong, safe, constrained'], 'influenced': [], 'influenced by': [72038, 15881]}
+572327	{'title': 'xbase', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2924800	{'title': 'xbase++', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+793475	{'title': 'xbl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+39153713	{'title': 'xc programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1615369	{'title': 'xharbour', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2855241	{'title': 'xl', 'year': '2000', 'paradigm(s)': ['Multi-paradigm', 'concept-oriented', 'imperative', 'functional'], 'typing': ['strong'], 'influenced': [], 'influenced by': [1242, 72038]}
+39624220	{'title': 'xojo', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+551037	{'title': 'xotcl', 'year': '2000', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'functional', 'Imperative', 'event-driven programming'], 'typing': ['dynamic typing', 'string'], 'influenced': [], 'influenced by': [39880682, 9689799]}
+57408699	{'title': 'xod', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+19086670	{'title': 'xpath', 'year': '1998', 'paradigm(s)': ['Query language'], 'typing': [], 'influenced': [185449, 424362], 'influenced by': [34211, 85011]}
+902082	{'title': 'xpl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+18528411	{'title': 'xpl0', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23742879	{'title': 'xquery', 'year': '2007', 'paradigm(s)': ['declarative', 'functional', 'modular'], 'typing': ['dynamic', '[2]', '[3]', 'strong'], 'influenced': [], 'influenced by': [19086670, 29004, 34211]}
+4723102	{'title': 'xsb', 'year': 0, 'paradigm(s)': ['Logic Programming'], 'typing': [], 'influenced': [], 'influenced by': [23485]}
+50274716	{'title': 'xsharp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25386274	{'title': 'xsl transformations', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+36462606	{'title': 'xtend', 'year': '2011', 'paradigm(s)': ['Object-oriented', 'imperative', 'functional'], 'typing': ['static', 'strong', 'inferred'], 'influenced': [], 'influenced by': [15881, 3254510, 57417762, 28319]}
+175271	{'title': 'yorick', 'year': '1996', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+26657733	{'title': 'yql (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2248859	{'title': 'yoix', 'year': '2000', 'paradigm(s)': ['Multi-paradigm', 'Object-based', 'procedural'], 'typing': [], 'influenced': [], 'influenced by': [6021, 15881, 24080]}
+7528520	{'title': 'yahoo! user interface library', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+34521	{'title': 'z notation', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+31495398	{'title': 'zebra programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [4015]}
+928636	{'title': 'zeno (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2110332	{'title': 'zetalisp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4426247	{'title': 'zopl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+95928	{'title': 'z shell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+890761	{'title': 'zpl', 'year': '1993', 'paradigm(s)': ['Array'], 'typing': [], 'influenced': [6776794], 'influenced by': [6021]}
+140589	{'title': 'z++', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25432026	{'title': 'wikipedia:citation needed', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1545014	{'title': 'pl/pgsql', 'year': 'October\xa030, 1998', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [33862363, 1242]}
+11665200	{'title': 'sql/psm', 'year': '1996', 'paradigm(s)': ['Multi-paradigm'], 'typing': [], 'influenced': [], 'influenced by': [33862363, 1242]}
+2994338	{'title': 'a♯', 'year': '1971', 'paradigm(s)': ['Multi-paradigm', 'object-oriented', 'functional'], 'typing': [], 'influenced': [948551], 'influenced by': [23773, 27404990]}
+25051106	{'title': 'newsqueak', 'year': 0, 'paradigm(s)': ['Concurrent'], 'typing': ['strong'], 'influenced': [1935217, 25039021, 236298, 29414838], 'influenced by': [6021, 247370]}
+15986053	{'title': 'algol-like', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+10942	{'title': 'fortran', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+17213	{'title': 'kornshell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+29047	{'title': 'steelman language requirements', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25417347	{'title': 'ada programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+949010	{'title': 'algol y', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+26574070	{'title': 'ecmascript harmony', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+11044709	{'title': 'actor-based concurrent language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1366035	{'title': 'stos basic', 'year': '1988', 'paradigm(s)': [], 'typing': [], 'influenced': [2957], 'influenced by': [4015]}
+40889417	{'title': 'coopr', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+277184	{'title': 'mathematical notation', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+56284859	{'title': 'natural language programming', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+95823	{'title': 'korn shell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+12572874	{'title': 'javascript (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2281448	{'title': 'autoit', 'year': 'January\xa01999', 'paradigm(s)': ['Object-oriented', 'imperative', 'functional', 'procedural', 'reflective'], 'typing': [], 'influenced': [], 'influenced by': [4015]}
+34211	{'title': 'xslt', 'year': '1998', 'paradigm(s)': ['Declarative'], 'typing': [], 'influenced': [], 'influenced by': [44196]}
+945831	{'title': 'category:c programming language family', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+95833	{'title': 'c shell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+607497	{'title': 'c99', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1064178	{'title': 'dataparallel-c', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3172	{'title': 'ansi c', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2116391	{'title': '*lisp (starlisp)', 'year': '1986', 'paradigm(s)': [], 'typing': ['dynamic', 'strong'], 'influenced': [1064175], 'influenced by': [18016, 6068]}
+8157205	{'title': 'typescript', 'year': '1\xa0October 2012', 'paradigm(s)': ['Multi-paradigm', 'functional', 'generic', 'imperative', 'object-oriented'], 'typing': ['duck', 'gradual', 'structural', '[4]'], 'influenced': [44365118], 'influenced by': [2356196, 15881, 9845]}
+1042779	{'title': 'cω', 'year': '2003', 'paradigm(s)': ['multi-paradigm', 'structured', 'imperative', 'object-oriented', 'event-driven', 'functional'], 'typing': ['static', 'strong', 'safe'], 'influenced': [2356196, 13706337, 12098545], 'influenced by': [2356196, 35640209]}
+1081482	{'title': 'high performance fortran', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25458359	{'title': 'cray mta', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7922315	{'title': 'cray xmt', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+391472	{'title': 'pl/1', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+907	{'title': 'awk', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+381842	{'title': 'openmp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+43723435	{'title': 'hy', 'year': '2013', 'paradigm(s)': ['Multi-paradigm', 'procedural', 'functional', 'object-oriented', 'meta', 'reflective', 'generic'], 'typing': [], 'influenced': [], 'influenced by': [18016, 12304060, 16561990, 6068]}
+41671035	{'title': 'lfe', 'year': '2008', 'paradigm(s)': ['Multi-paradigm', 'concurrent', 'functional'], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [9646, 6068, 47774, 28119, 38202780, 42702466, 45448513]}
+6219357	{'title': 'aimaco', 'year': '1959', 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [6799], 'influenced by': [82760, 4292196]}
+35783688	{'title': 'fact computer language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+326530	{'title': 'yaml', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4158686	{'title': 'eulisp', 'year': '1990', 'paradigm(s)': ['multi-paradigm', 'functional', 'procedural', 'meta', 'object-oriented'], 'typing': ['strong', 'dynamic'], 'influenced': [8741, 6976849], 'influenced by': [6068, 353522, 13054873, 28119, 875484, 191414, 1064120, 1063953, 100337, 27404990]}
+6976849	{'title': 'islisp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [6068, 4158686, 1064127, 28119]}
+37270938	{'title': 'autolisp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+19946240	{'title': 'moose (perl)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6693612	{'title': 'skill', 'year': '1990', 'paradigm(s)': ['functional', 'OOP'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [28119, 6068, 191414]}
+1625207	{'title': 'subl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+47775	{'title': 'lisp machine lisp', 'year': '1976', 'paradigm(s)': [], 'typing': [], 'influenced': [6068], 'influenced by': [18016, 47774, 353464]}
+47774	{'title': 'maclisp', 'year': 'July\xa01966', 'paradigm(s)': [], 'typing': ['dynamic', 'strong'], 'influenced': [6068], 'influenced by': []}
+353464	{'title': 'interlisp', 'year': '1968', 'paradigm(s)': [], 'typing': [], 'influenced': [47775], 'influenced by': [18016]}
+449019	{'title': 'oberon-2', 'year': '1991', 'paradigm(s)': ['imperative', 'structured', 'modular', 'object-oriented'], 'typing': ['strong', 'static'], 'influenced': [357599, 25039021], 'influenced by': [22496, 24102707, 23773]}
+1453	{'title': 'algol', 'year': '1958', 'paradigm(s)': ['Procedural', 'imperative', 'structured'], 'typing': [], 'influenced': [23708, 29513, 4052, 4475, 23773, 6021], 'influenced by': []}
+227989	{'title': 'inform', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13191	{'title': 'html(hypertext markup language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+10965409	{'title': 'minid', 'year': '2006', 'paradigm(s)': ['Multi-paradigm', 'object-oriented', 'Imperative'], 'typing': ['dynamic'], 'influenced': [], 'influenced by': [243881, 46150, 2819069, 23862, 323340, 188515]}
+33850384	{'title': 'qore', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'thread safe', 'parallel', 'shared memory', 'functional', 'imperative', 'object-oriented', 'class-based', 'procedural', 'functional'], 'typing': [], 'influenced': [], 'influenced by': [23939, 1176702, 72038, 15881]}
+7419372	{'title': 'foxpro', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2539467	{'title': 'vp-info[1]', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4895712	{'title': 'windows powershell', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+191414	{'title': 'common lisp object system', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+53428852	{'title': 'redux', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+50978621	{'title': 'vue.js', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4426773	{'title': 'agda', 'year': '2007', 'paradigm(s)': ['Functional'], 'typing': [], 'influenced': [39035048], 'influenced by': [581974, 1933143, 27404990]}
+33079424	{'title': 'alf (theorem prover)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+38053070	{'title': 'akka', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20217814	{'title': 'reia (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+27828947	{'title': 'simple theory of types', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1474975	{'title': 'croquet', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13567	{'title': 'hypercard', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+746828	{'title': 'starlogo', 'year': '2001', 'paradigm(s)': ['Multi-paradigm', 'educational', 'procedural', 'agent-based', 'simulation'], 'typing': ['duck', 'dynamic', 'strong'], 'influenced': [593757, 4052771], 'influenced by': [18334]}
+6983799	{'title': 'agentsheets', 'year': '1991', 'paradigm(s)': ['object-oriented', 'educational'], 'typing': [], 'influenced': [4052771, 9236158], 'influenced by': [18016, 18334, 28319]}
+23153417	{'title': 'concurrent euclid (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+31105	{'title': 'turing', 'year': '1982', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'procedural'], 'typing': ['static', 'manifest'], 'influenced': [], 'influenced by': [827385, 23773, 827334]}
+5976852	{'title': 'fortran 95', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+57798059	{'title': 'dafny (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+60393	{'title': 'arith-matic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+617705	{'title': 'basic-plus', 'year': '1970', 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [149766], 'influenced by': [516845, 62086758]}
+332693	{'title': 'burroughs large systems', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+27174347	{'title': 'pact i', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4993482	{'title': 'allegro common lisp', 'year': '1986', 'paradigm(s)': [], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [18016, 47774, 303734, 2188401]}
+50462918	{'title': 'bluespec, inc.', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5481447	{'title': 'c++11', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23708477	{'title': 'concepts (c++)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13706337	{'title': 'language integrated query', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [29004, 27404990]}
+13675387	{'title': 'isabelle theorem prover', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7955681	{'title': 'generics in java', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+17643059	{'title': 'omega', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+60230260	{'title': 'purescript', 'year': '2013', 'paradigm(s)': ['Functional'], 'typing': ['static', 'strong', 'inferred'], 'influenced': [], 'influenced by': [37552825, 239964, 27404990, 39652, 100337]}
+1146638	{'title': 'raku', 'year': '25\xa0December 2015', 'paradigm(s)': ['Multi-paradigm'], 'typing': ['dynamic', 'gradual'], 'influenced': [23939, 27404990], 'influenced by': [27404990, 9845, 23939, 25768, 28319]}
+9019708	{'title': 'gofer (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+15127771	{'title': 'id (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+233385	{'title': 'iswim', 'year': '1966', 'paradigm(s)': ['imperative', 'functional'], 'typing': [], 'influenced': [9123867, 7238799, 7389219, 27404990, 161878, 1485589], 'influenced by': [692878, 18016]}
+20148120	{'title': 'ioke', 'year': 'November\xa06, 2008', 'paradigm(s)': ['object-oriented', 'prototype-based'], 'typing': ['strong', 'dynamic'], 'influenced': [], 'influenced by': [323340, 28319, 18016, 25768]}
+4075450	{'title': 'actor model middle history', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7239022	{'title': 'unicon programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+411454	{'title': 'ibm rpg ii', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+60378	{'title': 'ibm 709/90 9pac', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+6135484	{'title': 'fargo (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+381782	{'title': 'numpy', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+215824	{'title': 'gambas', 'year': '1999', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [6097382, 15881]}
+42302403	{'title': 'haxe (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+44365118	{'title': 'atscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+28116392	{'title': 'qml', 'year': '2009', 'paradigm(s)': ['Multi-paradigm', 'declarative', 'reactive', 'scripting'], 'typing': ['dynamic', 'strong'], 'influenced': [40659930], 'influenced by': [7611352, 1575082, 9845, 40659930]}
+1838572	{'title': 'cal (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+10611640	{'title': 'logic programming', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1637868	{'title': 'actor model', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+28005	{'title': 'semi-automatic ground environment', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7238799	{'title': 'miranda programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2009536	{'title': 'stackless python', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+418603	{'title': 'clips', 'year': '1985', 'paradigm(s)': ['expert systems'], 'typing': [], 'influenced': [], 'influenced by': []}
+26384	{'title': 'rebol', 'year': '1997', 'paradigm(s)': ['language oriented programming', 'data exchange', 'functional', 'prototype-based', 'imperative'], 'typing': ['dynamic', 'strong'], 'influenced': [1575082, 35733875], 'influenced by': [60265, 11012, 18016, 18334]}
+303031	{'title': 'information processing language (ipl)', 'year': '1956', 'paradigm(s)': ['Assembly'], 'typing': [], 'influenced': [18016], 'influenced by': []}
+6648528	{'title': 'kturtle', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9069072	{'title': 'puredata', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+14789	{'title': 'interactive fiction', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9857086	{'title': 'cedar (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9123867	{'title': 'sasl programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1002285	{'title': 'fortran 90', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+39516472	{'title': 'zonnon', 'year': '2013', 'paradigm(s)': ['imperative', 'structured', 'modular', 'object-oriented'], 'typing': [], 'influenced': [], 'influenced by': [22496, 23773]}
+949017	{'title': 'algol-w', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7632959	{'title': 'modula-2+', 'year': '1980s', 'paradigm(s)': ['imperative', 'structured'], 'typing': ['strong', 'static'], 'influenced': [241545], 'influenced by': [23773, 1453, 24102707]}
+261121	{'title': 'algol programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7238785	{'title': 'lisp programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+539194	{'title': 'muf (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+17687494	{'title': 'profile scripting language', 'year': '1998', 'paradigm(s)': ['Procedural'], 'typing': [], 'influenced': [], 'influenced by': [19723]}
+23454753	{'title': 'nineteen eighty-four: a novel ', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7071680	{'title': 'io programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7238578	{'title': 'dylan programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7238495	{'title': 'apl programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20961640	{'title': 'active oberon', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+25572284	{'title': 'rexx', 'year': '1979', 'paradigm(s)': ['multiparadigm', 'procedural', 'structured'], 'typing': [], 'influenced': [11690683, 1353817], 'influenced by': [23708, 1453, 9424740, 9424829]}
+11090266	{'title': 'tom', 'year': '1999', 'paradigm(s)': ['object-oriented'], 'typing': [], 'influenced': [], 'influenced by': [39809523]}
+19905196	{'title': 'ats', 'year': 0, 'paradigm(s)': ['multi-paradigm', 'functional', 'imperative'], 'typing': ['static'], 'influenced': [], 'influenced by': [1951390, 20607, 39652, 72038]}
+4086	{'title': 'brainfuck', 'year': 'September 1993', 'paradigm(s)': ['esoteric', 'imperative', 'structured'], 'typing': [], 'influenced': [], 'influenced by': [2242844, 53398]}
+50318793	{'title': 'oberon-2 (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+3432584	{'title': 'structured text', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+15703913	{'title': 'awk (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+53891883	{'title': 'generic java', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7190667	{'title': 'scala programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+62017767	{'title': 'superplan', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+29245633	{'title': 'heinz rutishauser', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+900125	{'title': 'begriffsschrift', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+57131254	{'title': 'portable document format', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+200138	{'title': 'interpress', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+431985	{'title': 'as/400 control language', 'year': 0, 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [4895712], 'influenced by': [391487, 23708]}
+11946436	{'title': 'tk', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+22561399	{'title': 'chef', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+14432911	{'title': 'puppet (software)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+10933	{'title': 'functional programming', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+864364	{'title': 'dataflow', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+598669	{'title': 'diagram', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+17178	{'title': 'kl0', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+17179	{'title': 'kl1', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+912124	{'title': 'business basic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+508401	{'title': 'groovy', 'year': '2003', 'paradigm(s)': ['Object-oriented', 'imperative', 'scripting'], 'typing': ['dynamic', 'static', 'strong', 'duck'], 'influenced': [41819039], 'influenced by': [15881, 23862, 25768, 28319]}
+1988114	{'title': 'xlispstat', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+507928	{'title': 'inferno', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+733576	{'title': 'reverse polish notation', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+423612	{'title': 'algol 68', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+44013448	{'title': 'scratchjr', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+56882690	{'title': 'agentcubes', 'year': '2006', 'paradigm(s)': ['object-oriented', 'educational'], 'typing': [], 'influenced': [9236158], 'influenced by': [6983799, 18016, 18334, 28319]}
+9771	{'title': 'ed', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+920004	{'title': 'setl2', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+920018	{'title': 'isetl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+22758	{'title': 'list of object-oriented programming languages', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+58536710	{'title': 'simscript', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2179985	{'title': 'sac', 'year': '1994', 'paradigm(s)': ['array', 'functional'], 'typing': ['static', 'strong'], 'influenced': [], 'influenced by': [7238495, 57406, 6021]}
+859608	{'title': 'imp (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+78126	{'title': 'sketchpad', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+292961	{'title': 'arpanet', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+8115636	{'title': 'burroughs b5000', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+4230	{'title': 'cell (biology)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7389219	{'title': 'ml programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1800920	{'title': 'java hotspot virtual machine', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9672320	{'title': 'contextual query language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+2574343	{'title': 'sparql', 'year': '2008', 'paradigm(s)': ['Query language'], 'typing': [], 'influenced': [], 'influenced by': []}
+21670195	{'title': 'java persistence query language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [29004, 48718969]}
+60675294	{'title': 'java object oriented querying', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+40516644	{'title': 'n1ql', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+32169	{'title': 'unified modeling language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7238710	{'title': 'icon programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23497750	{'title': 'basic4ppc', 'year': '2005', 'paradigm(s)': ['Procedural programming', 'Event-driven'], 'typing': ['static', 'weak'], 'influenced': [], 'influenced by': [6097382]}
+19160625	{'title': 'nsb/appstudio', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+20153719	{'title': 'microsoft small basic', 'year': 'October\xa023, 2008', 'paradigm(s)': ['Structured', 'imperative', 'object-oriented'], 'typing': ['dynamic', 'weak'], 'influenced': [], 'influenced by': [18334, 23712097, 208996]}
+22497	{'title': 'opengl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+38962533	{'title': 'asm.js', 'year': '21\xa0March 2013', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [9845]}
+20607025	{'title': 'google native client', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+5903016	{'title': 'symbolic manipulation program', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+9689799	{'title': 'otcl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+185449	{'title': 'xml schema (w3c)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+424362	{'title': 'xforms', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+85011	{'title': 'xpointer', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+44196	{'title': 'dsssl', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+12098545	{'title': 'joins (concurrency library)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+35640209	{'title': 'polyphonic c sharp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+12304060	{'title': 'kawa', 'year': '9\xa0February 1998', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [18016, 28119]}
+42702466	{'title': 'clojure (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+45448513	{'title': 'hy (programming language)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+353522	{'title': 'interlisp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13054873	{'title': 'lelisp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1064120	{'title': 'objvlisp', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1063953	{'title': 'oaklisp', 'year': '1986', 'paradigm(s)': ['multi-paradigm', 'object-oriented', 'functional', 'procedural'], 'typing': ['dynamic', 'strong'], 'influenced': [4158686, 15881, 7238578], 'influenced by': [28119, 7239012, 28319]}
+1064127	{'title': 'le lisp', 'year': '1981', 'paradigm(s)': [], 'typing': [], 'influenced': [6976849, 34994823], 'influenced by': [18016]}
+1176702	{'title': 'd language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+149766	{'title': 'microsoft basic', 'year': '1975 (cf. ', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+516845	{'title': 'dartmouth basic', 'year': '1964', 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [1774611], 'influenced by': [11168, 1453]}
+62086758	{'title': 'tymshare super basic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+303734	{'title': 'macsyma', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+40659930	{'title': 'qt (framework)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+7611352	{'title': 'xaml', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1575082	{'title': 'json', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1951390	{'title': 'dependent ml', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+53398	{'title': 'esoteric programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+48718969	{'title': 'hibernate (java)', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23712097	{'title': 'qbasic', 'year': '1991', 'paradigm(s)': ['Procedural'], 'typing': [], 'influenced': [1443566, 18410776, 20153719], 'influenced by': [63569, 13087]}
+7239012	{'title': 't programming language', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+34994823	{'title': 'openlisp', 'year': 'April\xa01988', 'paradigm(s)': [], 'typing': ['dynamic', 'strong'], 'influenced': [], 'influenced by': [18016, 6976849]}
+1774611	{'title': 'list of basic dialects', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1443566	{'title': 'freebasic', 'year': '2004', 'paradigm(s)': ['Procedural', 'object-oriented'], 'typing': ['static'], 'influenced': [], 'influenced by': [63569, 6021]}
+18410776	{'title': 'qb64', 'year': '2007', 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': [63569, 124808]}
+63569	{'title': 'quickbasic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+13087	{'title': 'gw-basic', 'year': '1983', 'paradigm(s)': [], 'typing': [], 'influenced': [23712097, 1400907, 327744], 'influenced by': [5134584, 23093599, 38212017]}
+124808	{'title': 'qbasic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1400907	{'title': 'quickbasic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+327744	{'title': 'msx basic', 'year': '1983', 'paradigm(s)': ['imperative'], 'typing': [], 'influenced': [1172241], 'influenced by': [13087]}
+5134584	{'title': 'ibm cassette basic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+23093599	{'title': 'ibm disk basic', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+38212017	{'title': 'ibm basica', 'year': 0, 'paradigm(s)': [], 'typing': [], 'influenced': [], 'influenced by': []}
+1172241	{'title': 'vilnius basic', 'year': '1986', 'paradigm(s)': ['imperative', 'algorithmic'], 'typing': [], 'influenced': [], 'influenced by': [327744]}
